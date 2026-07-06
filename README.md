@@ -10,8 +10,10 @@ and a night-indigo panel drawn from the cover illustration's palette.
   with the title set on a curve around the arch
 - **Characters** — a full-screen splash-art stage for eight characters,
   one at a time, with a name rail plus arrow, keyboard, and swipe
-  navigation. Characters with finished art blend straight into the page
-  (the stage fades to charcoal for night-mood characters); the rest wear
+  navigation. Each entry gets a giant epithet word behind the art, an
+  orbit ellipse, a numbered plaque, and a records kicker; splash art
+  floats directly on the parchment (white-background art is multiply-
+  blended, dark art is background-removed). Characters without art wear
   veiled "yet unveiled" portraits — drop a full-body illustration into
   `assets/characters/` and swap it into the slide when the art exists
 - **World** — atlas of the four charted dream provinces, set on a night panel

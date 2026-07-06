@@ -55,10 +55,6 @@
       railItems.forEach(function (item, i) {
         item.classList.toggle("is-active", i === current);
       });
-      stage.classList.toggle(
-        "is-night",
-        slides[current].dataset.mood === "night"
-      );
       if (counter) counter.textContent = ROMAN[current];
     };
 

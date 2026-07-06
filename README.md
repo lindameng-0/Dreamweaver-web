@@ -20,10 +20,20 @@ and a night-indigo panel drawn from the cover illustration's palette.
 - **Novel** — synopsis, a manuscript-page excerpt, and a table of contents
   whose chapters open in the reader
 - **Reader** (`read.html?ch=N`) — a scrolling chapter reader with drop caps,
-  ✦ section breaks, a gold reading-progress bar, and previous/next/contents
-  navigation. Chapter text lives in `js/chapters.js` — add a chapter object
-  there and it appears in the reader automatically (remember to add its TOC
-  row in `index.html`)
+  ✦ section breaks, framed inline illustrations, a gold reading-progress
+  bar, and previous/next/contents navigation
+
+## Publishing chapters
+
+Chapters are plain text files in `chapters/` (see the format comment in
+`js/chapter-format.js`), listed in order by `chapters/manifest.json`.
+The table of contents and the reader build themselves from the manifest.
+
+**The easy way:** export your Google Doc as `.docx` and drop it into the
+[`inbox/`](inbox/) folder on GitHub — a workflow converts it into a
+chapter automatically (title from the filename, dash-lines become ✦
+scene breaks, images carried over, vigil/folio inherited from the
+previous chapter). Full instructions live in `inbox/README.md`.
 
 ## Stack
 

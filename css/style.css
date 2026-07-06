@@ -1023,3 +1023,31 @@ html {
   .ch-nav-next { order: 1; text-align: left; }
   .ch-nav-prev { order: 2; }
 }
+
+/* ── chapter illustrations ────────────────────────────────── */
+
+.chapter-figure {
+  margin: clamp(36px, 5vh, 56px) auto;
+  text-align: center;
+}
+.chapter-figure img {
+  display: block;
+  max-width: 100%;
+  max-height: 76vh;
+  margin: 0 auto;
+  border: 1px solid var(--line);
+  outline: 1px solid var(--line-faint);
+  outline-offset: 7px;
+  padding: 8px;
+  background: var(--parchment-deep);
+}
+.chapter-figure figcaption {
+  margin-top: 20px;
+  font-weight: 600; font-size: 11px; letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.chapter-figure figcaption::before {
+  content: "✦"; color: var(--gold);
+  margin-right: 12px; font-size: 9px;
+}

@@ -1,66 +1,89 @@
-/* Dreamweaver — chapter reader */
+/* Dreamweaver — chapter reader (loads chapters/<file> per manifest order) */
 
 (function () {
   "use strict";
 
-  var chapters = window.DW_CHAPTERS || [];
   var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
-               "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"];
+               "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
+               "XXI", "XXII", "XXIII", "XXIV", "XXV", "XXVI", "XXVII", "XXVIII", "XXIX", "XXX"];
 
-  /* which chapter? (?ch=N, 1-based) */
-  var n = parseInt(new URLSearchParams(location.search).get("ch"), 10);
-  if (isNaN(n) || n < 1 || n > chapters.length) n = 1;
-  var i = n - 1;
-  var ch = chapters[i];
+  function fetchChapter(file) {
+    return fetch("chapters/" + file, { cache: "no-cache" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("chapter fetch failed: " + res.status);
+        return res.text();
+      })
+      .then(window.DWFormat.parse);
+  }
 
-  document.title = ch.title + " — Dreamweaver";
+  fetch("chapters/manifest.json", { cache: "no-cache" })
+    .then(function (res) {
+      if (!res.ok) throw new Error("manifest fetch failed: " + res.status);
+      return res.json();
+    })
+    .then(function (manifest) {
+      var files = manifest.chapters || [];
+      if (!files.length) throw new Error("no chapters in manifest");
 
-  /* header */
-  document.getElementById("crumb-vigil").textContent = ch.vigilShort;
-  document.getElementById("ch-kicker").textContent =
-    ch.vigil + "  ·  CHAPTER " + ROMAN[i] + "  ·  FOLIO " + ch.folio;
-  document.getElementById("ch-title").textContent = ch.title;
+      var n = parseInt(new URLSearchParams(location.search).get("ch"), 10);
+      if (isNaN(n) || n < 1 || n > files.length) n = 1;
+      var i = n - 1;
 
-  /* body */
-  var body = document.getElementById("ch-body");
-  ch.paras.forEach(function (para) {
-    if (para === "---") {
-      var brk = document.createElement("p");
-      brk.className = "chapter-break";
-      brk.setAttribute("aria-hidden", "true");
-      brk.textContent = "✦";
-      body.appendChild(brk);
-    } else {
+      return Promise.all([
+        fetchChapter(files[i]),
+        i > 0 ? fetchChapter(files[i - 1]) : null,
+        i < files.length - 1 ? fetchChapter(files[i + 1]) : null
+      ]).then(function (loaded) {
+        var ch = loaded[0], prevCh = loaded[1], nextCh = loaded[2];
+
+        document.title = ch.meta.title + " — Dreamweaver";
+        document.getElementById("crumb-vigil").textContent =
+          window.DWFormat.vigilShort(ch.meta.vigil);
+        document.getElementById("ch-kicker").textContent =
+          ch.meta.vigil + "  ·  CHAPTER " + (ROMAN[i] || n) +
+          (ch.meta.folio ? "  ·  FOLIO " + ch.meta.folio : "");
+        document.getElementById("ch-title").textContent = ch.meta.title;
+
+        window.DWFormat.render(ch.blocks, document.getElementById("ch-body"));
+
+        var prev = document.getElementById("nav-prev");
+        var next = document.getElementById("nav-next");
+
+        if (prevCh) {
+          prev.href = "read.html?ch=" + i;
+          prev.querySelector(".ch-nav-title").textContent = prevCh.meta.title;
+        } else {
+          prev.classList.add("is-disabled");
+          prev.removeAttribute("href");
+          prev.setAttribute("aria-disabled", "true");
+          prev.querySelector(".ch-nav-title").textContent = "This is the first chapter";
+        }
+
+        if (nextCh) {
+          next.href = "read.html?ch=" + (i + 2);
+          next.querySelector(".ch-nav-title").textContent = nextCh.meta.title;
+        } else {
+          next.classList.add("is-disabled");
+          next.removeAttribute("href");
+          next.setAttribute("aria-disabled", "true");
+          var coming = manifest.forthcoming
+            ? window.DWFormat.vigilShort(manifest.forthcoming) + " — forthcoming"
+            : "The story continues soon";
+          next.querySelector(".ch-nav-title").textContent = coming;
+          document.getElementById("ch-finis").textContent = "finis — for now";
+        }
+      });
+    })
+    .catch(function (err) {
+      document.getElementById("ch-title").textContent = "The page is missing";
+      var body = document.getElementById("ch-body");
+      body.textContent = "";
       var p = document.createElement("p");
-      p.textContent = para;
+      p.textContent = "This chapter could not be found in the Somnium Records. " +
+        "Return to the contents and try another door.";
       body.appendChild(p);
-    }
-  });
-
-  /* prev / next */
-  var prev = document.getElementById("nav-prev");
-  var next = document.getElementById("nav-next");
-
-  if (i > 0) {
-    prev.href = "read.html?ch=" + i;
-    prev.querySelector(".ch-nav-title").textContent = chapters[i - 1].title;
-  } else {
-    prev.classList.add("is-disabled");
-    prev.removeAttribute("href");
-    prev.setAttribute("aria-disabled", "true");
-    prev.querySelector(".ch-nav-title").textContent = "This is the first chapter";
-  }
-
-  if (i < chapters.length - 1) {
-    next.href = "read.html?ch=" + (i + 2);
-    next.querySelector(".ch-nav-title").textContent = chapters[i + 1].title;
-  } else {
-    next.classList.add("is-disabled");
-    next.removeAttribute("href");
-    next.setAttribute("aria-disabled", "true");
-    next.querySelector(".ch-nav-title").textContent = "Vigil III — forthcoming";
-    document.getElementById("ch-finis").textContent = "finis vigiliae secundae";
-  }
+      if (window.console) console.error(err);
+    });
 
   /* gold reading-progress bar */
   var bar = document.getElementById("read-progress-bar");

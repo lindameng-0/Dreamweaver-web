@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dreamweaver — A Novel</title>
+<meta name="description" content="Dreamweaver — a novel of the sleeping city. Characters, world, and chapters.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpath d='M50 4 C54 34 66 46 96 50 C66 54 54 66 50 96 C46 66 34 54 4 50 C34 46 46 34 50 4 Z' fill='%232e2b25'/%3E%3C/svg%3E">
+<link rel="preload" href="assets/fonts/Italiana-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/Cormorant-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="page-frame" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<header class="nav">
+  <a class="nav-mark" href="#home">D<span class="nav-mark-star">✦</span>W</a>
+  <nav aria-label="Primary">
+    <a href="#home" class="nav-link active">Home</a>
+    <a href="#characters" class="nav-link">Characters</a>
+    <a href="#world" class="nav-link">World</a>
+    <a href="#novel" class="nav-link">Novel</a>
+  </nav>
+</header>
+
+<!-- ══════════════════ HOME ══════════════════ -->
+<section id="home" class="hero">
+  <svg class="hero-art" viewBox="0 30 1000 1214" role="img"
+       aria-label="Dreamweaver — cover illustration of a figure framing a dark dream with their hands, set within an arched plate">
+    <defs>
+      <clipPath id="arch-clip">
+        <path d="M300,1060 L300,470 A200,200 0 0 1 700,470 L700,1060 Z"/>
+      </clipPath>
+      <path id="title-arc" d="M162,470 A338,338 0 0 1 838,470"/>
+      <path id="motto-arc" d="M252,470 A248,248 0 0 1 748,470"/>
+    </defs>
+
+    <!-- curved title -->
+    <g class="hr hr-2">
+      <text class="svg-title">
+        <textPath href="#title-arc" startOffset="50%" text-anchor="middle">DREAMWEAVER</textPath>
+      </text>
+    </g>
+    <g class="hr hr-3">
+      <text class="svg-motto">
+        <textPath href="#motto-arc" startOffset="50%" text-anchor="middle">· IN SOMNIS VERITAS ·</textPath>
+      </text>
+    </g>
+
+    <!-- arched cover plate -->
+    <g class="hr hr-4">
+      <path d="M284,1074 L284,470 A216,216 0 0 1 716,470 L716,1074 Z" class="svg-arch-frame"/>
+      <image href="assets/cover.png" x="300" y="270" width="400" height="790"
+             preserveAspectRatio="xMidYMid slice" clip-path="url(#arch-clip)"/>
+      <path d="M300,1060 L300,470 A200,200 0 0 1 700,470 L700,1060 Z" class="svg-arch-edge"/>
+    </g>
+
+    <!-- orbital loop -->
+    <ellipse cx="500" cy="770" rx="405" ry="115" class="svg-orbit hr hr-5"
+             transform="rotate(-9 500 770)"/>
+
+    <!-- sparkles -->
+    <g class="hr hr-5">
+      <path class="sparkle tw-a" transform="translate(146 566) scale(1.15)"
+            d="M0,-28 C2.5,-9 9,-2.5 28,0 C9,2.5 2.5,9 0,28 C-2.5,9 -9,2.5 -28,0 C-9,-2.5 -2.5,-9 0,-28 Z"/>
+      <path class="sparkle tw-b" transform="translate(864 540) scale(0.8)"
+            d="M0,-28 C2.5,-9 9,-2.5 28,0 C9,2.5 2.5,9 0,28 C-2.5,9 -9,2.5 -28,0 C-9,-2.5 -2.5,-9 0,-28 Z"/>
+      <path class="sparkle tw-c" transform="translate(824 636) scale(0.45)"
+            d="M0,-28 C2.5,-9 9,-2.5 28,0 C9,2.5 2.5,9 0,28 C-2.5,9 -9,2.5 -28,0 C-9,-2.5 -2.5,-9 0,-28 Z"/>
+      <path class="sparkle tw-b" transform="translate(186 468) scale(0.5)"
+            d="M0,-28 C2.5,-9 9,-2.5 28,0 C9,2.5 2.5,9 0,28 C-2.5,9 -9,2.5 -28,0 C-9,-2.5 -2.5,-9 0,-28 Z"/>
+    </g>
+
+    <!-- side ornaments -->
+    <g class="hr hr-6">
+      <g class="svg-burst" transform="translate(150 962)">
+        <g id="burst-lines"></g>
+      </g>
+      <g class="svg-coil" transform="translate(852 950)">
+        <ellipse cx="0" cy="0"  rx="30" ry="8"/>
+        <ellipse cx="0" cy="12" rx="30" ry="8"/>
+        <ellipse cx="0" cy="24" rx="30" ry="8"/>
+        <ellipse cx="0" cy="36" rx="30" ry="8"/>
+        <ellipse cx="0" cy="48" rx="30" ry="8"/>
+      </g>
+    </g>
+
+    <!-- flanking plaques + script word -->
+    <g class="hr hr-7">
+      <rect x="106" y="1042" width="164" height="44" class="svg-plaque"/>
+      <text x="188" y="1070" class="svg-plaque-text" text-anchor="middle">A NOVEL</text>
+      <rect x="730" y="1042" width="164" height="44" class="svg-plaque"/>
+      <text x="812" y="1070" class="svg-plaque-text" text-anchor="middle">VIGILS I – III</text>
+      <text x="500" y="1108" class="svg-script" text-anchor="middle">somnia</text>
+    </g>
+
+    <!-- foot line -->
+    <g class="hr hr-8">
+      <text x="500" y="1196" class="svg-foot" text-anchor="middle">HE WHO MENDS THE DREAMS OF STRANGERS MUST LEAVE HIS OWN UNSLEPT</text>
+      <text x="500" y="1224" class="svg-foot" text-anchor="middle">AN ACCOUNT IN TWENTY-FOUR CHAPTERS, TAKEN FROM THE SOMNIUM RECORDS</text>
+    </g>
+  </svg>
+
+  <a class="scroll-cue hr hr-8" href="#characters" aria-label="Scroll to characters">
+    <span>DESCEND</span>
+    <i></i>
+  </a>
+</section>
+
+<!-- ══════════════════ CHARACTERS ══════════════════ -->
+<section id="characters" class="section">
+  <header class="section-head reveal">
+    <span class="script-lead">those who walk the loom</span>
+    <h2>Dramatis Person&aelig;</h2>
+    <div class="orn-rule" aria-hidden="true"><span></span><b>✦</b><span></span></div>
+  </header>
+
+  <div class="cast-grid">
+    <article class="cast-card reveal" style="--i:0">
+      <div class="cast-plate wash-indigo"><span class="cast-initial">R</span><b class="cast-star">✦</b></div>
+      <p class="cast-epithet">the weaver</p>
+      <h3 class="cast-name">Riku Amano</h3>
+      <p class="cast-role">THE DREAMWEAVER</p>
+      <p class="cast-bio">He folds the hours of other people's sleep into cloth, mending nightmares the way a tailor mends a torn sleeve. Every dream he repairs costs him one of his own — and he is running out.</p>
+    </article>
+
+    <article class="cast-card reveal" style="--i:1">
+      <div class="cast-plate wash-gold"><span class="cast-initial">S</span><b class="cast-star">✦</b></div>
+      <p class="cast-epithet">the anchor</p>
+      <h3 class="cast-name">Sayo Kurose</h3>
+      <p class="cast-role">THE WAKING TETHER</p>
+      <p class="cast-bio">The only person Riku has ever met who does not dream at all. Where she stands, the Loom cannot reach — which makes her either his salvation, or the loose thread that unravels everything.</p>
+    </article>
+
+    <article class="cast-card reveal" style="--i:2">
+      <div class="cast-plate wash-slate"><span class="cast-initial">I</span><b class="cast-star">✦</b></div>
+      <p class="cast-epithet">the archivist</p>
+      <h3 class="cast-name">Professor E. Ibara</h3>
+      <p class="cast-role">KEEPER OF THE SOMNIUM</p>
+      <p class="cast-bio">Curator of the Somnium Records, a library of every dream ever surrendered. She catalogued the first weavers a century ago — and has spent every night since erasing one particular entry.</p>
+    </article>
+
+    <article class="cast-card reveal" style="--i:3">
+      <div class="cast-plate wash-night"><span class="cast-initial">A</span><b class="cast-star">✦</b></div>
+      <p class="cast-epithet">the dark chorus</p>
+      <h3 class="cast-name">The Audience</h3>
+      <p class="cast-role">THOSE WHO WATCH FROM SLEEP</p>
+      <p class="cast-bio">Silhouettes that gather in the theatre at the bottom of every dream, applauding softly at griefs that were never meant to be performed. No one has ever seen one of them wake.</p>
+    </article>
+  </div>
+</section>
+
+<!-- ══════════════════ WORLD ══════════════════ -->
+<section id="world" class="section section-night">
+  <header class="section-head reveal">
+    <span class="script-lead script-lead-night">atlas of the unwaking</span>
+    <h2>The World</h2>
+    <div class="orn-rule orn-rule-night" aria-hidden="true"><span></span><b>✦</b><span></span></div>
+    <p class="section-note">Beneath the waking city lies its reflection, stitched from everything the sleepers surrender. Four provinces are charted in the Somnium Records; the rest is selvage and rumour.</p>
+  </header>
+
+  <figure class="world-stage reveal">
+    <img src="assets/cover.png" alt="The Theatre — a lone figure reaching upward on a dark stage before an audience of silhouettes" loading="lazy">
+    <figcaption><span class="folio">PL.&#8202;III</span> THE THEATRE, AS SKETCHED BY A WITNESS WHO WOKE MID-PERFORMANCE</figcaption>
+  </figure>
+
+  <div class="world-grid">
+    <article class="world-plate reveal" style="--i:0">
+      <span class="folio">PL.&#8202;I</span>
+      <h3>The Loom</h3>
+      <p>Where every sleeping mind in the city braids into a single fabric. Weavers walk its threads barefoot, reading each strand by warmth: joy runs hot, grief runs cold, and secrets do not run at all.</p>
+    </article>
+    <article class="world-plate reveal" style="--i:1">
+      <span class="folio">PL.&#8202;II</span>
+      <h3>The Shallows</h3>
+      <p>The first minute of any dream, shared by all dreamers like a harbour at dusk. Memories are traded here in paper boats; the ferrymen accept only things you meant to say and never did.</p>
+    </article>
+    <article class="world-plate reveal" style="--i:2">
+      <span class="folio">PL.&#8202;III</span>
+      <h3>The Theatre</h3>
+      <p>A dark auditorium at the bottom of deep sleep where dreams are performed back to their dreamers, one act at a time. The Audience never boos, never leaves — and never lets a performance end early.</p>
+    </article>
+    <article class="world-plate reveal" style="--i:3">
+      <span class="folio">PL.&#8202;IV</span>
+      <h3>The Selvage</h3>
+      <p>The frayed hem of the Loom, where abandoned dreams unravel into weather. Sleepwalkers wash up here, and weavers are forbidden to follow them past the last intact thread.</p>
+    </article>
+  </div>
+
+  <p class="world-quote reveal">&ldquo;Every city is two cities. You are a citizen of the one you forget by morning.&rdquo;<span class="world-quote-src">— SOMNIUM RECORDS, FOLIO 91</span></p>
+</section>
+
+<!-- ══════════════════ NOVEL ══════════════════ -->
+<section id="novel" class="section">
+  <header class="section-head reveal">
+    <span class="script-lead">the account itself</span>
+    <h2>The Novel</h2>
+    <div class="orn-rule" aria-hidden="true"><span></span><b>✦</b><span></span></div>
+  </header>
+
+  <div class="novel-grid">
+    <figure class="manuscript reveal">
+      <div class="manuscript-inner">
+        <p class="manuscript-head">VIGIL I &nbsp;·&nbsp; CHAPTER ONE</p>
+        <p class="manuscript-body"><span class="dropcap">T</span>he first rule of weaving is that you do not look at the dreamer's face. Riku broke it the way he broke all rules — slowly, politely, with his hands already raised to frame the dark. Between his fingers the nightmare opened like a stage: a figure reaching upward, an audience of shadows, applause as soft as snow settling on a roof. <em>Someone else's grief,</em> he reminded himself, and began to unpick the seam of it. It was only when the reaching figure turned that he understood whose dream he had wandered into, and why no thread of it was warm.</p>
+        <p class="manuscript-folio">— folio 1 —</p>
+      </div>
+    </figure>
+
+    <div class="novel-side">
+      <div class="novel-synopsis reveal">
+        <h3 class="novel-subhead">Argument</h3>
+        <p>In a city where dreams are surrendered each night to a communal Loom, the last licensed dreamweaver takes a commission he should have refused: to mend the recurring nightmare of a woman who does not dream. To finish the work he must descend past the Shallows, bargain with the Theatre's dark chorus, and unpick a knot tied a century ago in the Somnium Records — before his final dream is spent.</p>
+      </div>
+
+      <div class="novel-toc reveal">
+        <h3 class="novel-subhead">Table of Contents</h3>
+        <ol class="toc">
+          <li class="toc-vigil">VIGIL I — THE COMMISSION</li>
+          <li class="toc-row"><span>The Unslept Tailor</span><i></i><b>1</b></li>
+          <li class="toc-row"><span>A Client Who Does Not Dream</span><i></i><b>19</b></li>
+          <li class="toc-row"><span>Paper Boats in the Shallows</span><i></i><b>41</b></li>
+          <li class="toc-row"><span>The Cold Thread</span><i></i><b>63</b></li>
+          <li class="toc-vigil">VIGIL II — THE DESCENT</li>
+          <li class="toc-row"><span>Applause Like Snow</span><i></i><b>89</b></li>
+          <li class="toc-row"><span>The Erased Folio</span><i></i><b>117</b></li>
+          <li class="toc-row"><span>Selvage Weather</span><i></i><b>140</b></li>
+          <li class="toc-vigil">VIGIL III — THE MENDING</li>
+          <li class="toc-row toc-muted"><span>— forthcoming —</span><i></i><b>&nbsp;</b></li>
+        </ol>
+      </div>
+
+      <p class="novel-status reveal">SERIALISED MONTHLY &nbsp;·&nbsp; VIGIL II NOW IN PROGRESS &nbsp;·&nbsp; ✦</p>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="orn-rule" aria-hidden="true"><span></span><b>✦</b><span></span></div>
+  <p class="footer-mark">D&#8201;✦&#8201;W</p>
+  <p class="footer-line">DREAMWEAVER, A NOVEL &nbsp;·&nbsp; SET IN ITALIANA, CORMORANT &amp; PINYON SCRIPT &nbsp;·&nbsp; MMXXVI</p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

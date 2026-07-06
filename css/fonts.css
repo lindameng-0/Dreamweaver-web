@@ -1,0 +1,30 @@
+/* Self-hosted type — Italiana, Cormorant (variable), Pinyon Script */
+
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url('../assets/fonts/Cormorant-var.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Cormorant';
+  font-style: italic;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url('../assets/fonts/Cormorant-var-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Italiana';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/Italiana-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Pinyon Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/PinyonScript-400.woff2') format('woff2');
+}

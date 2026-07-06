@@ -17,7 +17,13 @@ and a night-indigo panel drawn from the cover illustration's palette.
   veiled "yet unveiled" portraits — drop a full-body illustration into
   `assets/characters/` and swap it into the slide when the art exists
 - **World** — atlas of the four charted dream provinces, set on a night panel
-- **Novel** — synopsis, a manuscript-page excerpt, and the table of contents
+- **Novel** — synopsis, a manuscript-page excerpt, and a table of contents
+  whose chapters open in the reader
+- **Reader** (`read.html?ch=N`) — a scrolling chapter reader with drop caps,
+  ✦ section breaks, a gold reading-progress bar, and previous/next/contents
+  navigation. Chapter text lives in `js/chapters.js` — add a chapter object
+  there and it appears in the reader automatically (remember to add its TOC
+  row in `index.html`)
 
 ## Stack
 

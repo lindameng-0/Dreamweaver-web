@@ -37,6 +37,64 @@
     reveals.forEach(function (el) { el.classList.add("in-view"); });
   }
 
+  /* character splash stage */
+  var stage = document.querySelector(".stage");
+  if (stage) {
+    var slides = stage.querySelectorAll(".ch-slide");
+    var railItems = stage.querySelectorAll(".rail-item");
+    var counter = document.getElementById("stage-now");
+    var ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"];
+    var current = 0;
+
+    var goTo = function (index) {
+      var n = slides.length;
+      current = ((index % n) + n) % n;
+      slides.forEach(function (slide, i) {
+        slide.classList.toggle("is-active", i === current);
+      });
+      railItems.forEach(function (item, i) {
+        item.classList.toggle("is-active", i === current);
+      });
+      stage.classList.toggle(
+        "is-night",
+        slides[current].dataset.mood === "night"
+      );
+      if (counter) counter.textContent = ROMAN[current];
+    };
+
+    railItems.forEach(function (item, i) {
+      item.addEventListener("click", function () { goTo(i); });
+    });
+    stage.querySelector(".stage-arrow.prev")
+      .addEventListener("click", function () { goTo(current - 1); });
+    stage.querySelector(".stage-arrow.next")
+      .addEventListener("click", function () { goTo(current + 1); });
+
+    /* arrow keys while the stage is on screen */
+    var stageVisible = false;
+    if ("IntersectionObserver" in window) {
+      new IntersectionObserver(function (entries) {
+        stageVisible = entries[0].isIntersecting;
+      }, { threshold: 0.4 }).observe(stage);
+    }
+    document.addEventListener("keydown", function (e) {
+      if (!stageVisible) return;
+      if (e.key === "ArrowLeft") goTo(current - 1);
+      if (e.key === "ArrowRight") goTo(current + 1);
+    });
+
+    /* swipe */
+    var touchX = null;
+    stage.addEventListener("pointerdown", function (e) { touchX = e.clientX; });
+    stage.addEventListener("pointerup", function (e) {
+      if (touchX === null) return;
+      var dx = e.clientX - touchX;
+      touchX = null;
+      if (Math.abs(dx) < 48) return;
+      goTo(dx < 0 ? current + 1 : current - 1);
+    });
+  }
+
   /* active nav link follows the section in view */
   var links = document.querySelectorAll(".nav-link");
   var sections = document.querySelectorAll("section[id]");

@@ -8,7 +8,12 @@ and a night-indigo panel drawn from the cover illustration's palette.
 
 - **Home** — poster-style hero: the cover illustration in an arched frame,
   with the title set on a curve around the arch
-- **Characters** — dramatis personæ with watercolour-wash plates
+- **Characters** — a full-screen splash-art stage for eight characters,
+  one at a time, with a name rail plus arrow, keyboard, and swipe
+  navigation. Characters with finished art blend straight into the page
+  (the stage fades to charcoal for night-mood characters); the rest wear
+  veiled "yet unveiled" portraits — drop a full-body illustration into
+  `assets/characters/` and swap it into the slide when the art exists
 - **World** — atlas of the four charted dream provinces, set on a night panel
 - **Novel** — synopsis, a manuscript-page excerpt, and the table of contents
 

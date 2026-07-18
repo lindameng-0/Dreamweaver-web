@@ -19,7 +19,7 @@
         var lastVigil = null;
 
         metas.forEach(function (meta, idx) {
-          if (meta.vigil !== lastVigil) {
+          if (meta.vigil && meta.vigil !== lastVigil) {
             lastVigil = meta.vigil;
             var vig = document.createElement("li");
             vig.className = "toc-vigil";

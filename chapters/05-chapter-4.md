@@ -1,6 +1,6 @@
 title: Chapter 4
-vigil: VIGIL II — THE DESCENT
-folio: 260
+vigil: 
+folio: 76
 
 The first thing Eli did was gather the papers.
 

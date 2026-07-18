@@ -37,11 +37,23 @@
         var ch = loaded[0], prevCh = loaded[1], nextCh = loaded[2];
 
         document.title = ch.meta.title + " — Dreamweaver";
-        document.getElementById("crumb-vigil").textContent =
-          window.DWFormat.vigilShort(ch.meta.vigil);
-        document.getElementById("ch-kicker").textContent =
-          ch.meta.vigil + "  ·  CHAPTER " + (ROMAN[i] || n) +
-          (ch.meta.folio ? "  ·  FOLIO " + ch.meta.folio : "");
+
+        var crumb = document.querySelector(".reader-crumb");
+        if (crumb) {
+          crumb.textContent = "DREAMWEAVER";
+          if (ch.meta.vigil) {
+            crumb.textContent += " · " + window.DWFormat.vigilShort(ch.meta.vigil);
+          }
+        }
+
+        var kicker = [];
+        if (ch.meta.vigil) kicker.push(ch.meta.vigil);
+        // only add "CHAPTER N" when the title doesn't already name the section
+        if (!/^(chapter|prologue|epilogue|interlude|prelude|part)\b/i.test(ch.meta.title)) {
+          kicker.push("CHAPTER " + (ROMAN[i] || n));
+        }
+        if (ch.meta.folio) kicker.push("FOLIO " + ch.meta.folio);
+        document.getElementById("ch-kicker").textContent = kicker.join("  ·  ");
         document.getElementById("ch-title").textContent = ch.meta.title;
 
         window.DWFormat.render(ch.blocks, document.getElementById("ch-body"));

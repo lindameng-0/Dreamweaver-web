@@ -1,6 +1,6 @@
 title: Chapter 6
-vigil: VIGIL II — THE DESCENT
-folio: 308
+vigil: 
+folio: 147
 
 The pipes ran in every direction, lining the walls and crossing the ceiling and diving into the floor at angles that suggested the people who built this place had not been thinking about the people who would have to walk through it. Three levels below the service access, where Maeve had stayed behind to stand guard, the air tasted of metal and something chemical. Condensation beaded on the surfaces around them, catching the thin emergency lighting in small bright points that could have been eyes.
 

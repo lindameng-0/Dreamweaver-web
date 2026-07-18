@@ -1,6 +1,6 @@
 title: Chapter 2
-vigil: VIGIL II — THE DESCENT
-folio: 212
+vigil: 
+folio: 19
 
 The sky above the battlefield was an ugly, churning grey. Smoke, thick and suffocating, curled in slow tendrils across the no-man's-land between the two forces, its edges catching on the flickering tongues of distant fires. Eli descended into the quiet borderline, wings cutting through the acrid wind, feathers edged in the dull light of the setting sun.
 

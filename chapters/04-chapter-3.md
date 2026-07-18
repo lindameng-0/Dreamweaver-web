@@ -1,6 +1,6 @@
 title: Chapter 3
-vigil: VIGIL II — THE DESCENT
-folio: 236
+vigil: 
+folio: 47
 
 The guards saw them before they reached the gate. Steel sang as the first one drew his blade, and Eli watched the way the torchlight caught the edge, the way the guard's shoulders set into that familiar stance of suspicion. Harlan. Good instincts. Eli had always liked that about him.
 

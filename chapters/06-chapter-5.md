@@ -1,6 +1,6 @@
 title: Chapter 5
-vigil: VIGIL II — THE DESCENT
-folio: 284
+vigil: 
+folio: 102
 
 Eli sat at his desk for another minute. Then he stood, left the tea where it was, and went out through the door this time.
 

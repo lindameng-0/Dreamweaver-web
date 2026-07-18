@@ -1,6 +1,6 @@
 title: Chapter 7
-vigil: VIGIL II — THE DESCENT
-folio: 332
+vigil: 
+folio: 181
 
 There was a room. The ceiling was plaster and old and someone had repainted it recently enough that the edges where the new coat met the old still showed. Cracks ran from the corner above the window toward the center. Fourteen, if you counted the seam where the plaster had dried unevenly. The window faced east. He knew this because the light that came through it in the early hours was thin and grey, and by midmorning it had crossed the floor to the foot of the bed and turned warm.
 

@@ -1,6 +1,6 @@
 title: Chapter 1
-vigil: VIGIL II — THE DESCENT
-folio: 188
+vigil: 
+folio: 4
 
 "Don't be afraid."
 

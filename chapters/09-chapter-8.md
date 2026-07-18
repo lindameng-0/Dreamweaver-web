@@ -1,6 +1,6 @@
 title: Chapter 8
-vigil: VIGIL II — THE DESCENT
-folio: 356
+vigil: 
+folio: 202
 
 His hand was over his eyes.
 

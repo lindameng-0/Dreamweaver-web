@@ -1,6 +1,6 @@
 title: Prologue
-vigil: VIGIL II — THE DESCENT
-folio: 164
+vigil: 
+folio: 1
 
 It was the rain that defined those first days after the Cataclysm.
 

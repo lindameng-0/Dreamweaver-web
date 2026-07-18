@@ -7,17 +7,21 @@ chapters/NN-slug.md, copies any embedded images to assets/chapters/,
 and updates chapters/manifest.json.
 
 Conventions understood:
+  - Each "Heading 2" in the doc (or "Heading 1") starts a new chapter,
+    and the heading text is that chapter's title. One upload can carry
+    a whole batch of chapters; they publish in document order. A doc
+    with no headings is treated as a single chapter titled by filename.
   - A line consisting only of dashes/underscores/asterisks (or a real
     horizontal rule in the doc) becomes a ✦ scene break.
   - Italics survive; bold is folded into italics.
   - Images embedded in the doc are carried over, full quality.
-  - Optional first lines in the doc override metadata:
-        title: The Loomkeeper's Price
+  - Optional metadata lines override the defaults. Put them at the top
+    of the doc (batch defaults) or right under a chapter heading:
         vigil: VIGIL III — THE MENDING
         folio: 163
-    Otherwise: title comes from the filename, vigil is inherited from
-    the latest chapter, folio continues from the previous chapter.
-  - Re-uploading a doc with the same title updates that chapter.
+    Otherwise vigil is inherited from the previous chapter and folio
+    continues automatically.
+  - Re-uploading a chapter with the same title updates it in place.
 
 Requires pandoc for .docx input.
 """
@@ -198,6 +202,58 @@ def extract_meta_overrides(blocks):
     return meta
 
 
+def clean_heading(text):
+    """A pandoc heading line's text -> a clean chapter title."""
+    text = re.sub(r"\s*\{[^}]*\}\s*$", "", text.strip())  # trailing {#id} attrs
+    text = re.sub(r"[*_`]", "", text)                     # emphasis markers
+    return unescape_pandoc(text).strip()
+
+
+def extract_meta_lines(lines):
+    """Pull title/vigil/folio lines out of a list of raw lines."""
+    meta = {}
+    for line in lines:
+        m = META_RE.match(line.strip())
+        if m:
+            meta[m.group(1).lower()] = m.group(2).strip()
+    return meta
+
+
+def split_into_chapters(md_text):
+    """Split a document into chapters at its heading lines.
+
+    Google Docs "Heading 2" exports as an H2 (## Title); "Heading 1" as
+    an H1 (# Title). We split on H2 when any are present, otherwise H1.
+    Returns (preamble_lines, [(title, body_md), ...]) — or None when the
+    document has no headings at all (a single-chapter upload).
+    """
+    lines = md_text.replace("\r\n", "\n").split("\n")
+    if any(re.match(r"^##\s+\S", ln) for ln in lines):
+        pat = re.compile(r"^##\s+(.*)$")
+    elif any(re.match(r"^#\s+\S", ln) for ln in lines):
+        pat = re.compile(r"^#\s+(.*)$")
+    else:
+        return None
+
+    preamble, sections = [], []
+    cur_title, cur_lines, started = None, [], False
+    for ln in lines:
+        m = pat.match(ln)
+        if m:
+            if started:
+                sections.append((cur_title, "\n".join(cur_lines)))
+            else:
+                preamble, started = cur_lines, True
+            cur_title, cur_lines = clean_heading(m.group(1)), []
+        else:
+            cur_lines.append(ln)
+    if started:
+        sections.append((cur_title, "\n".join(cur_lines)))
+
+    sections = [(t, b) for (t, b) in sections if t or b.strip()]
+    return preamble, sections
+
+
 def process(path):
     manifest = load_manifest()
     files = manifest.get("chapters", [])
@@ -206,6 +262,7 @@ def process(path):
     num_match = re.match(r"^(\d+)[\s.\-–—_]*(.*)$", stem)
     filename_title = (num_match.group(2) if num_match and num_match.group(2) else stem).strip()
 
+    # ── parse the upload into one or more chapters (while media dir lives) ──
     with tempfile.TemporaryDirectory() as media_dir:
         ext = path.suffix.lower()
         if ext == ".docx":
@@ -214,59 +271,84 @@ def process(path):
             md = path.read_text(encoding="utf-8")
         else:
             print(f"skip (unsupported type): {path.name}")
-            return None
+            return []
 
-        # metadata defaults from the latest chapter
-        prev_meta = read_chapter_meta(files[-1]) if files else {}
-        title_guess = filename_title or "Untitled Chapter"
-        slug = slugify(title_guess)
+        split = split_into_chapters(md)
+        if split is None:
+            sections, batch_meta = [(None, md)], {}
+        else:
+            preamble, sections = split
+            batch_meta = extract_meta_lines(preamble)
 
-        blocks = normalise_body(md, media_dir, slug)
-        overrides = extract_meta_overrides(blocks)
+        built = []
+        for heading_title, body_md in sections:
+            prov_title = heading_title or filename_title or "Untitled Chapter"
+            blocks = normalise_body(body_md, media_dir, slugify(prov_title))
+            overrides = extract_meta_overrides(blocks)
+            if not blocks:
+                continue
+            title = overrides.get("title") or heading_title or filename_title or "Untitled Chapter"
+            built.append({"title": title, "overrides": overrides, "blocks": blocks})
 
-        title = overrides.get("title") or title_guess
-        slug = slugify(title)
-        vigil = overrides.get("vigil") or prev_meta.get("vigil") or "VIGIL I — THE COMMISSION"
-        folio = overrides.get("folio")
-        if not folio:
-            try:
-                folio = str(int(prev_meta.get("folio", "0")) + 24)
-            except ValueError:
-                folio = ""
-
-    if not blocks:
+    if not built:
         print(f"skip (no content found): {path.name}")
-        return None
+        return []
 
-    # update an existing chapter when the slug matches, else append
-    existing = None
-    for f in files:
-        if re.sub(r"^\d+-", "", f).rsplit(".", 1)[0] == slug:
-            existing = f
-            break
+    # ── write each chapter, chaining vigil/folio from the previous one ──
+    prev_meta = read_chapter_meta(files[-1]) if files else {}
+    running_vigil = batch_meta.get("vigil") or prev_meta.get("vigil") or "VIGIL I — THE COMMISSION"
+    have_folio = bool(batch_meta.get("folio") or prev_meta.get("folio"))
+    try:
+        running_folio = int(batch_meta.get("folio") or prev_meta.get("folio") or 0)
+    except ValueError:
+        running_folio = 0
 
-    if existing:
-        out_name = existing
-        old = read_chapter_meta(existing)
-        vigil = overrides.get("vigil") or old.get("vigil") or vigil
-        folio = overrides.get("folio") or old.get("folio") or folio
-    else:
-        out_name = f"{len(files) + 1:02d}-{slug}.md"
-        files.append(out_name)
+    results = []
+    for item in built:
+        title, overrides, blocks = item["title"], item["overrides"], item["blocks"]
+        slug = slugify(title)
 
-    body = "\n\n".join(blocks)
-    content = f"title: {title}\nvigil: {vigil}\nfolio: {folio}\n\n{body}\n"
-    CHAPTERS.mkdir(parents=True, exist_ok=True)
-    (CHAPTERS / out_name).write_text(content, encoding="utf-8")
+        existing = None
+        for f in files:
+            if re.sub(r"^\d+-", "", f).rsplit(".", 1)[0] == slug:
+                existing = f
+                break
+        old = read_chapter_meta(existing) if existing else {}
+
+        vigil = overrides.get("vigil") or (old.get("vigil") if existing else "") or running_vigil
+        running_vigil = vigil
+
+        if overrides.get("folio"):
+            folio = overrides["folio"]
+        elif existing and old.get("folio"):
+            folio = old["folio"]
+        elif not have_folio:
+            folio = "1"
+        else:
+            folio = str(running_folio + 24)
+        try:
+            running_folio, have_folio = int(folio), True
+        except ValueError:
+            pass
+
+        if existing:
+            out_name = existing
+        else:
+            out_name = f"{len(files) + 1:02d}-{slug}.md"
+            files.append(out_name)
+
+        body = "\n\n".join(blocks)
+        content = f"title: {title}\nvigil: {vigil}\nfolio: {folio}\n\n{body}\n"
+        CHAPTERS.mkdir(parents=True, exist_ok=True)
+        (CHAPTERS / out_name).write_text(content, encoding="utf-8")
+        print(f"{'updated' if existing else 'published'}: {title!r} -> chapters/{out_name}")
+        results.append(title)
 
     manifest["chapters"] = files
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
-
     path.unlink()
-    action = "updated" if existing else "published"
-    print(f"{action}: {title!r} -> chapters/{out_name}")
-    return title
+    return results
 
 
 def main():
@@ -279,7 +361,9 @@ def main():
     if not uploads:
         print("inbox empty")
         return 0
-    done = [t for t in (process(p) for p in uploads) if t]
+    done = []
+    for p in uploads:
+        done.extend(process(p))
     print(f"processed {len(done)} chapter(s)")
     return 0
 

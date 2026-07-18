@@ -12,30 +12,53 @@ automatically, in about two minutes. No code involved.
 That's it. The converter runs, the chapter appears in the table of
 contents, and the site redeploys on its own.
 
+## One document, many chapters
+
+Put several chapters in a single doc by giving each chapter title the
+**Heading 2** style (the style dropdown in the Google Docs toolbar).
+Everything under a heading, up to the next one, becomes that chapter's
+body. They publish in the order they appear:
+
+```
+Heading 2  →  The Loomkeeper's Price
+   (prose, dashes, images…)
+
+Heading 2  →  The Warp and the Weft
+   (prose…)
+
+Heading 2  →  What the Thread Remembered
+   (prose…)
+```
+
+A book title in **Heading 1** at the very top is fine — it is ignored,
+not treated as a chapter. A doc with **no headings** is published as a
+single chapter, titled by the file name.
+
 ## What the converter understands
 
-- **The filename becomes the title** — name the file
-  `The Loomkeeper's Price.docx` and that is the chapter title.
+- **Chapter titles come from Heading 2** (or the file name, for a
+  headingless single-chapter doc).
 - **A line of dashes** (`--------`, any number, or a real horizontal
   rule) becomes the ✦ scene break.
 - **Images in the doc are carried over** and framed like plates,
   in the order they appear.
 - *Italics* survive; **bold** is folded into italics.
-- Chapters are appended in order. The **vigil** is inherited from the
-  previous chapter and the **folio** number continues automatically.
+- Chapters publish in document order. The **vigil** is inherited from
+  the previous chapter and the **folio** number continues automatically.
 
 ## Optional overrides
 
-To control the metadata, put any of these on the first lines of the doc
-itself (they are removed from the published text):
+To control the metadata, add any of these lines — at the very top of the
+doc (defaults for the whole upload) or right under a chapter's Heading 2
+(that chapter only). They are removed from the published text:
 
 ```
-title: The Loomkeeper's Price
 vigil: VIGIL III — THE MENDING
 folio: 163
 ```
 
-Starting a new vigil? Just set `vigil:` once — later chapters inherit it.
+Starting a new vigil? Set `vigil:` once under the first chapter of it —
+later chapters in the same upload inherit it automatically.
 
 ## Updating a chapter
 

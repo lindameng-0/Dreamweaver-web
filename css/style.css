@@ -756,6 +756,7 @@ g.hr { transform-box: view-box; }
 .novel-synopsis p {
   font-size: 19px; line-height: 1.65; color: var(--ink-soft);
 }
+.novel-synopsis p + p { margin-top: 1.1em; }
 
 .novel-toc { margin-top: clamp(32px, 4vh, 48px); }
 

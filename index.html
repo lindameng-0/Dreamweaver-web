@@ -20,8 +20,8 @@
   <a class="nav-mark" href="#home">D<span class="nav-mark-star">✦</span>W</a>
   <nav aria-label="Primary">
     <a href="#home" class="nav-link active">Home</a>
-    <a href="#characters" class="nav-link">Characters</a>
-    <a href="#world" class="nav-link">World</a>
+    <a href="#characters" class="nav-link" hidden>Characters</a>
+    <a href="#world" class="nav-link" hidden>World</a>
     <a href="#novel" class="nav-link">Novel</a>
   </nav>
 </header>
@@ -105,14 +105,15 @@
     </g>
   </svg>
 
-  <a class="scroll-cue hr hr-8" href="#characters" aria-label="Scroll to characters">
+  <a class="scroll-cue hr hr-8" href="#novel" aria-label="Scroll to the novel">
     <span>DESCEND</span>
     <i></i>
   </a>
 </section>
 
 <!-- ══════════════════ CHARACTERS ══════════════════ -->
-<section id="characters" class="stage">
+<!-- temporarily hidden (remove `hidden` to restore) -->
+<section id="characters" class="stage" hidden>
   <div class="aura" aria-hidden="true"></div>
 
   <header class="stage-head">
@@ -296,7 +297,8 @@
 </section>
 
 <!-- ══════════════════ WORLD ══════════════════ -->
-<section id="world" class="section section-night">
+<!-- temporarily hidden (remove `hidden` to restore) -->
+<section id="world" class="section section-night" hidden>
   <header class="section-head reveal">
     <span class="script-lead script-lead-night">atlas of the unwaking</span>
     <h2>The World</h2>

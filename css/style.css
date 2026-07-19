@@ -26,6 +26,9 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* `hidden` attribute must win over component display rules (.stage etc.) */
+[hidden] { display: none !important; }
+
 html { scroll-behavior: smooth; }
 
 body {

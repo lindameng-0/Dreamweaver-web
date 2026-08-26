@@ -1,5 +1,5 @@
 title: Chapter 1
-vigil: 
+vigil: VIGIL I — THE COMMISSION
 folio: 4
 
 "Don't be afraid."
@@ -156,7 +156,7 @@ Sylvia whirled toward him. Her uniform carried more combat ribbons than any othe
 
 "Good to see you too, Sylvia." Eli's smile didn't falter. He removed the flower and placed it on the table with a gentleness that had no business being in this room. "What happened?"
 
-“Citadel sent a negotiator," Rae explained, her voice carefully neutral. She stood at the head of the table, hands clasped behind her back, "Commander Jax requested communication."
+“Citadel sent a negotiator," Rae explained, her voice carefully neutral. She stood at the head of the table, hands clasped behind her back, "Commander Kessler requested communication."
 
 "And you denied it," Eli concluded, taking his seat.
 

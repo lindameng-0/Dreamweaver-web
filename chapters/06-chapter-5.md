@@ -1,5 +1,5 @@
 title: Chapter 5
-vigil: 
+vigil: VIGIL I — THE COMMISSION
 folio: 102
 
 Eli sat at his desk for another minute. Then he stood, left the tea where it was, and went out through the door this time.
@@ -72,7 +72,7 @@ Her breathing slowed. Her grip on his arm loosened. She blinked, and her shoulde
 
 Eli waited.
 
-"The Garden."Mina’s voice dropped. “Something's wrong with it. I went yesterday, and the flowers were wilting. Right in front of me. I watched them close up and go brown and it happened so fast, Eli, like something was pulling the life out of them." She was speaking quickly now, the words tumbling. "And there are places that are just gone. Paths I used to walk that open onto nothing now. And people. Lia. She just disappeared. When I found her in her home, she kept saying that she couldn’t find her way back anymore."
+"The Garden."Mina’s voice dropped. “Something's wrong with it. I went yesterday, and the flowers were wilting. Right in front of me. I watched them close up and go brown and it happened so fast, Eli, like something was pulling the life out of them." She was speaking quickly now, the words tumbling. "And there are places that are just gone. Paths I used to walk that open onto nothing now. And people. My friend, Grace, just disappeared. When I found her in her home, she kept saying that she couldn’t find her way back anymore."
 
 She looked at him.
 
@@ -790,7 +790,7 @@ Sylvia. Flat. Final.
 
 Luca's head tilted.
 
-"Yes. You pushed the border. And for four days you held it, and you celebrated, and you believed it meant something." He looked at her. "Who do you think pulled the line back for you to push? Who do you think told Jax to retreat?"
+"Yes. You pushed the border. And for four days you held it, and you celebrated, and you believed it meant something." He looked at her. "Who do you think pulled the line back for you to push? Who do you think told Commander Kessler to retreat?"
 
 Sylvia's face went blank.
 

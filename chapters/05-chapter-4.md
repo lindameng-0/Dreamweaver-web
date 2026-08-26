@@ -1,5 +1,5 @@
 title: Chapter 4
-vigil: 
+vigil: VIGIL I — THE COMMISSION
 folio: 76
 
 The first thing Eli did was gather the papers.

@@ -1,664 +1,738 @@
 title: Chapter 2
-vigil: 
+vigil: VIGIL I — THE COMMISSION
 folio: 19
 
-The sky above the battlefield was an ugly, churning grey. Smoke, thick and suffocating, curled in slow tendrils across the no-man's-land between the two forces, its edges catching on the flickering tongues of distant fires. Eli descended into the quiet borderline, wings cutting through the acrid wind, feathers edged in the dull light of the setting sun.
+The smoke came off the field in long ropes that never quite lifted. It caught the fires burning somewhere past the ridge and went orange along its edges and then grey again, and the wind that pushed it carried a taste of scorched metal that stayed in the mouth after breathing. Eli came down through it with his wings half folded.
 
-His landing was less than graceful. Too late, he realized his mistake.
+He misjudged the ground. His boots came down on scorched dirt a full stride past where he meant them to, and he knew it before he had straightened.
 
-The moment he touched the scorched dirt, the shots started. Bullets sliced through the air, each one missing him by inches, lodging into the dirt at his feet, the space beside his ribs, just past his ear. Not a single one hit.
+The first shot went into the dirt between his feet. The second passed his ribs close enough to move his coat. The third took a chip out of the barricade behind him and the fourth went by his ear with a sound like cloth tearing, and then a hand closed on the back of his collar and hauled him down and sideways into cover, and the shooting stopped as suddenly as it had started. Not one round had touched him.
 
-A warning. He had crossed *that* invisible line.
+Then a hand had him by the collar and he was going backward.
 
-Seth wrenched him back, dragging him behind the half-crumbling barricade of steel and stone. The moment their bodies slammed into cover, the Citadel sentries ceased fire. They had made their point.
+They hit the barricade together, steel and broken masonry, and the firing stopped as cleanly as it had begun.
 
-"Are you trying to die?" Seth hissed, "Those Citadel bastards don't miss unless they mean to. Their guns all have auto-aim, and we found that out the hard way."
+Seth stayed low with his back against the stone. There was dried blood along his jaw that was not his and a newer cut over his eyebrow that was.
 
-Eli exhaled, steadying himself. "They won't shoot to kill without reason."
+"Do you want to die," he said. "Is that it. Because I can arrange that closer to home."
 
-Seth scoffed, his eyes flickering toward the distant enemy line. The Citadel sentries were barely visible, only shifting shadows against the twisted skyline. "They don't need a reason. They've been holding this border like their life depends on it."
+"They weren't aiming at me."
 
-And maybe, Eli thought, to them, that really was true. He didn't say it aloud. The Auralis soldiers around him weren't looking for philosophy. Eli knew that faint look in all of their eyes, almost dying out, but undoubtedly still there. The look that he saw in the few border wars they had, but remembered forever. The look that said they would not stop until the soil beneath their boots was drenched in either their blood or their enemies'.
+"Their guns aim themselves." Seth wiped his mouth. "We learned that on the first day. Twelve soldiers learned it. So no, they weren't aiming at you, and you can thank whoever it is you thank that they weren't."
 
-"Four days." Seth spat onto the ground, the taste of blood sharp on his tongue. "Four damn days, and we're still stuck. Four days of—"
+Eli looked up. Past the the barricade the ground rose toward a ridge, and on the ridge there were shapes that did not move, spaced at intervals someone had measured.
 
-"Of you starting something before telling anyone?" Eli's smile took the sting out. Four days. Not hours. Not the urgent emergency his briefing suggested. The report that had pulled him from the Garden had mentioned an immediate threat that demanded his presence. But four days—Seth had been fighting for four days before sending word. Eli should have been surprised, but he really wasn’t. He had suspected as much during his flight here, simply judging from Seth’s personality. Of course he’d jump at the earliest opportunity. No accusation formed on his lips.
+"How many are up there?"
 
-*Had he not argued the same point in the Skyscraper? Had he not stood before the other Generals and spoken of expansion?*
+"Same as yesterday. Same as the day before that." Seth followed his eyes and then looked away from them. "They don't rotate. I've watched. They don't eat, they don't drink, they don't sit down."
 
-"Did Maeve ask why your first report only arrived today?" Eli asked.
+"For four days."
 
-A ghost of a smile crossed Seth's face. "Dispatch complications. Communications disruption. Very unfortunate." He studied Eli's face. "Would she have sent anyone if I'd been honest?”
+"Four days."
 
-"So instead you reported a full-scale attack."
+"Your report reached the Skyscraper this morning."
 
-"I reported what I needed to." Seth's eyes hardened. "But I guess she knew. Why do you think she sent you? Only one general. Even you can't—"
+Seth said nothing for a moment. Around them men were moving in the crouched way men move when they have learned what standing costs. One of them was going along the line with a canteen and letting each man take exactly two swallows.
 
-"Can't what? Turn an impossible situation into an improbable victory? Seth, you wound me. I thought we were friends." Eli studied the battlefield. He understood the game Maeve was playing. Send her most powerful general, yes—but just one. Not enough to secure victory, just enough to say they had tried. It was calculated failure dressed as good faith.
+"Dispatch complications." Seth did not look at him. "Communications disruption. Very unfortunate."
 
-"I'm glad you're here," Seth admitted, something genuine breaking through his facade. "But I know why you came."
+"Mm."
 
-Eli said nothing. Seth’s gaze drifted toward the distant horizon, and for a moment it seemed like he might say more. He didn’t.
+"Don't do that."
 
-"I won't pretend to understand your visions, but I'm not naive enough to think you came for glory," Seth said.
+"I haven't done anything."
 
-"Neither of us is here for glory." Eli only replied.
+"You're doing it now." Seth dragged the back of his wrist across his mouth. "Would she have sent a single soul if I'd written it honest? Auralis moves on Citadel unprovoked, tell me how that reads at the table. I gave her something she had to answer. That's all I did."
 
-“Sure,” Seth nodded. "I guess what I did was already not exactly glorious.” his tired eyes stared into nothingness. “I reported an attack because we needed to force Maeve's hand. She would have let us bleed out here if I hadn't claimed Citadel fired first."
+"You gave her a full-scale attack."
 
-"And did they?" Eli asked.
+"I gave her what was needed."
 
-Something flickered across Seth's face. Regret, it seemed. "Does it matter? We're here now. And now it’s time to figure out how to get out."
+"And did they fire first?"
 
-Eli said nothing. He knew that this was the first time in history that Auralis had a chance to break the hold of Citadel. The damn Citadel soldiers—no one truly knew where they had come from. One day, they simply were. Perhaps it was a ploy by the Metropolis government to hold Auralis down. And to their credit, they really did it. Forced them into an uneasy stasis. The first and only cage their people had ever known since the Cataclysm.
+Something went across Seth's face and was put away. "Does it matter now."
 
-And Auralis had never forgiven them for it.
+Eli observed him a moment longer than was comfortable. He watched Seth wait for the judgment and then watched him understand that it was not coming, and something in the man's shoulders went down half an inch.
 
-Still, the sight before him gave him pause. Auralis Soldiers lay scattered, some dead, some dying, some clutching at wounds that would not kill them today, but would steal them away slowly, inch by inch. Eli's gaze fixed on the distant ridge where the Citadel sentries stood with their gleaming guns and masks that made them all indiscernible from each other. Despite their numbers—so few compared to the mass of soldiers Seth had brought—it seemed that none had fallen. Not a single one.
+"You held a line for four days with what you had," Eli said. "I'd have wanted the same thing you wanted. I said as much to the council, in a room with better chairs than this one, and nobody shot at me for it."
 
-This wasn't news. He had heard the real reports before he came here. Citadel's numbers were scarce, but their strategy was suffocating, impossibly precise—every movement countered before it could begin, every push repelled before it could gain momentum. Like trying to wage war against the hand of an all-knowing god.
+Seth laughed once, quietly, and it did not sound like it belonged to him. "I knew you'd come."
 
-Eli's lips pressed into a thin line. "How many did we lose today?"
+"She sent one general."
 
-"Enough. They keep us pinned," he spat, "keep us boxed in like this is some kind of game. We push forward, they shoot us down. We hold back, they make damn sure we never breathe easy. And they don't even bother finishing us off."
+"She sent the one who'd say yes."
 
-A pause. "They're laughing at us, Eli. They think we're weak."
+"She sent one," Eli said again, mildly, and Seth's laugh went out of him. It took a second for it to land. When it did he swore, low, at the stone in front of his knees.
 
-Weak. Eli let the word settle in his mind. It curdled like old blood.
+"Not two. Not a company." He leaned his head back against the stone. "Enough that the record shows Auralis answered. Not enough that Auralis wins. When this ends badly the ledger will read that the border was contested and the general on the ground was insufficient to the task, and every name in that sentence will be yours or mine."
 
-Because he knew why Citadel held the border so ruthlessly. He knew what Auralis had become to the Metropolis. A threat. And yet, they were still made to kneel. Still made to shrink beneath the weight of steel and guns that they could not afford to own.
+Seth laughed, one syllable of it. "You sound almost admiring."
 
-It wasn't about survival anymore.
+Out past the barricade the field went on for maybe three hundred meters before the ground broke upward, and the field was not empty. Eli found the first one without looking for it, a shape in Citadel grey lying with one arm folded under, and then the next, and then it stopped being individual shapes. He counted to forty and stopped counting.
 
-It was about what they were *owed.*
+Some of them had been out there since the first morning. The smoke had gone over them four times and the birds had not come, because there were no birds here.
 
-Eli's throat tightened, but the first words came anyway. "We're not weak." He said it too fast, too smooth, too much like a reflex. "For so long, Citadel thought we were nothing. The Metropolis didn't even see us as people. But not anymore. Now, they fear us."
+"Nobody's brought them in," Eli said.
 
-Seth turned to him, in shock. "Eli, that is not—"
+"They don't." Seth spat into the dirt. "Not ours, not theirs. We tried, day two. That's where the sixteen went." He jerked his chin toward the ridge without looking at it. "They keep us in the hole. They shoot when we stand up. They don't finish it and they don't walk away and they won't even come out for their own dead." He said the next part looking straight ahead. "They think we're not worth the trip."
 
-"They fear what we are. They fear what we'll become." Eli pressed forward, forcing his voice steady. He couldn't let this moment slip. The soldiers were listening, their exhaustion heavy but their hands still curled around their weapons. If he stopped speaking now, the silence would swallow them whole.
+"No." Eli said.
 
-"They pin us down because they know the moment we rise, they fall."
+Down the line a man was crying, not loudly, the sound of it thin under the wind.
 
-And there it was. The first breath. The faint glimmer in the eyes of the soldiers who had, moments ago, been drowning. They were waiting. Waiting for precisely this.
+"Somebody sat in a room and decided what this border was worth and signed for it, and what they signed for was enough men to stand on a ridge for four days without sitting down, on a stretch of dirt with nothing behind it but us." Eli said.
 
-"We push forward. The border isn’t invincible. We’ve drawn blood already, I’ve seen it.” He raised his voice, “We keep pressing, we—"
+Seth did not reply.
 
-“*We die.*” Seth didn’t let him finish. “I think you’ve got it all wrong. I didn’t ask for reinforcements to win, I asked for reinforcements to *leave*. They don’t let us retreat. They don’t let us advance. You think that’s luck? We don’t have the numbers. We don’t have the strategy.”
+"They didn't put that here for people they think are weak." Eli let his voice stay where it was, low, "You keep a dog behind a fence. You don't keep a dog behind a wall you have to pay for every single day."
 
-Eli smiled, "We don’t need numbers. We need belief."
+"It's the same fence either way, Eli. From in here it's the same damn fence."
 
-Seth stared at him, expression unreadable.
+"It cost them something to build it. That's not the same." He looked out at the field. "They can afford to leave forty of their own out there in the open, and they cannot afford to give us this. Look at what they're willing to spend and tell me what they think we are."
 
-*Belief.*
+Seth looked at the field for a long time.
 
-Seth knew that word. Knew it from every speech, every rally, every moment when Eli stood before their soldiers and made them believe they could defy reality itself. But Eli wasn’t blind to their suffering. He saw the same things Seth did—maybe even more.
+"Four days," Eli continued. "Four days and they haven't moved a meter forward either. They're not holding this line to take it. They're holding it so we don't."
 
-"You think belief will stop bullets?" Seth asked with a bit more incredulity than he intended.
+Seth's voice had gone flat. "Eli. I didn't send for help so we could win. I sent for help so we could get out. They don't let us go forward and they don't let us go back. Give me one general and a hundred more bodies and all that changes is how many I leave behind."
 
-"No.” Eli admitted, “But it will stop hesitation. And hesitation is why we're losing." He lifted his chin, eyes gleaming in the dimming light. "The Citadel keeps us pinned, not because they’re invincible, but because they know we doubt ourselves. They know we hesitate. And hesitation is surrender."
+Eli nodded slowly, as though Seth had said something he had been waiting a long time to hear.
 
-Seth inhaled sharply. "You want us to walk straight into their guns."
+"How many are out there?" he asked. "Ours."
 
-"I want us to walk as if we cannot be shot," Eli corrected, stepping closer. "As if the battlefield is already ours. We move like we’ve already won, and they won’t know how to stop us."
+Seth did not answer.
 
-Seth closed his eyes briefly. When he opened them again, he turned, stepping up onto the makeshift barricade of steel and rubble, facing the gathered soldiers.
+"You know the number."
 
-They watched him, waiting.
+"Nineteen." Seth said it to the stone. "Sixteen from day two. Three since."
 
-Eli stepped up beside him, his voice rising with the last light of day.
+"Names?"
 
-"Tonight," Eli said, his voice steady, unwavering. "We burn through their line. We remind them that Auralis will not kneel to them."
+"Don't."
 
-The first murmurs rose through the crowd—uncertain, hesitant.
+"I'm asking whether you have them."
 
-“Do you want them to be right? Do you want them to think we’ve already lost?” Eli asked quietly.
+"Of course I have them." Seth turned on him. "What do you think I've been doing out here for four days, sleeping?"
 
-Seth’s shoulders tensed as he felt the shift. The slow, dawning realization in every soldier’s face, the flicker of something rekindling in their eyes. Some of them lifted their heads. Some clenched their weapons just a little tighter. Some who had been on the verge of collapse sat a little straighter.
+Eli let the quiet come down. It went further than it should have. A soldier with a canteen had stopped moving. Down the line the crying had stopped too, which was worse, and Eli understood that everyone within thirty feet had been listening for some time and had only now stopped pretending otherwise.
 
-"You're insane." he could only whisper.
+He did not raise his voice. He did not stand up.
 
-"Sanity's overrated. Besides—" Eli's grin turned sharp. "You already called them here. Might as well give them something to believe in. So, what will it be?"
+"Nineteen of ours are lying in the open," he said, "and there is not one person here who has not counted them, and not one of you who has said the number out loud. That's what four days does. You start keeping it in your head because saying it makes it real, and then it turns out you were the only one not saying it, and everyone around you was doing the same thing." He looked at the soldier with the canteen. "Nineteen."
 
-A single order now would bring the full force and fury of their army down upon this cursed line. Eli was waiting. The soldiers were waiting. The world was waiting.
+Nobody moved.
 
-"We advance at midnight," Seth called out, voice ringing through the battlefield. "And we win."
+"They're going to lie out there until the smoke takes them apart," Eli said. "That's the plan. That's what's on the other side of the ridge, a room with a plan in it, and the plan is that eventually you'll get used to it."
 
-The soldiers roared.
+"And you'd have me get more of them killed retrieving corpses." Seth's jaw was tight. "Day two, Eli. Sixteen went out for two."
 
-Eli had given them hope. And now Seth would have to make sure they didn’t die for it.
+"In daylight. In a line. Straight across." Eli tipped his head toward the field, toward the low place in the middle where the smoke lay thickest and did not move. "There's a dip forty meters out. Anyone crossing it goes out of sight for eleven seconds. I counted on the way down."
+
+Seth was silent for a long moment.
+
+"You want the line," he said. "You didn't come for the nineteen."
+
+"I want both. I'm not going to insult you by pretending otherwise." Eli held his eyes. "But I'll tell you which one your soldiers will walk into that field for, and it isn't the border."
+
+Seth looked away first.
+
+"They shoot when we stand up," he said.
+
+"Then don't send anyone who's going to stand up like they expect it." Eli got to his feet. He did it slowly and he did it in full view of the barricade, and the ridge did not fire, and every soldier along the line watched him do it. "Half of what's holding you here is in your own shoulders. They know the shape a body makes when it's already flinching. They've been watching you make it for four days."
+
+"And what shape would you like us to make."
+
+"Walk like the ground is ours." He said it quietly, to Seth, and it carried anyway. "Not bravely. Bravery is loud and it gets people shot. Walk like you're going out to collect something that belongs to you, because you are, and let them be the ones who have to decide what to do about it."
+
+The wind turned and brought the smell of the field in over the barricade.
+
+"You're insane," Seth said.
+
+"I've been called worse in better rooms." Eli almost smiled. "You called me here. You wrote a report you'll answer for one day and you sent it because you wanted somebody to make this cost something. Well, here I am."
+
+Seth stood.
+
+He did it slowly, the way Eli had, and he stayed standing longer than he needed to. Then he stepped up onto the barricade, onto broken stone, with the whole ruined skyline behind him and the ridge past that, and he looked down at what was left of his company.
+
+"Nineteen of ours are out there," he said. "We go at midnight. We bring them in. Then we take the high ground and we hold it till morning."
+
+Nobody roared. Not at first. There was a sound instead, low and scattered, people getting up off the ground in the dark, and it went along the line and did not stop going. Somebody was checking a strap. Somebody said a name.
+
+Then it turned into the other thing, and it was loud, and it went out across the field toward the ridge where the shapes stood and did not move.
+
+Eli stayed where he was, below the barricade, out of the light. He watched their faces come up one by one.
+
+Behind him, past the smoke, the sun finished going down.
+
+"They'll follow you into that," Seth said quietly, still standing where the guns could see him. "You know that."
+
+"Yes."
+
+"That wasn't a compliment."
 
 ──────✧──────
 
-The first step was always the most difficult, but they had already taken it. The border dissolved beneath their boots like ash.
+They went out at midnight in a line that was not a line.
 
-The first shot of war did not come from ahead.
+Eli had walked it with them twice before they moved, low along the barricade, telling each man where his feet went. Not a formation. Forty men spread across a hundred and sixty meters of open dirt, moving at the pace of men crossing a yard, and nobody carrying a light.
 
-It came from behind. Tearing through the air like a shard of fractured glass, missing Seth by a breath. He did not flinch. Instead, he turned his face toward the sound. Behind him, a soldier crumpled.
+The ridge did not fire.
 
-So it begins.
+That was the part he had not told Seth he was unsure of. Fifty meters out and still nothing, and he could feel the whole line feeling it, the terrible loosening in men who have decided a thing is going to work.
 
-“Down!” Seth moved before the echo of the shot faded, already reaching for the knives at his belt. A flick of his wrist—one, two, three, four—each blade carved the air. Then silence.
+The first shot came from behind them.
 
-A heartbeat passed. Then four bodies collapsed, lifeless.
+It went past Seth's head close enough to move his hair, and it did not come from the ridge, and Seth turned toward it before the sound had finished. Somewhere down the line a man went down without a word, which was how Eli knew it had gone through his throat.
 
-"We were watched," Seth spat, turning to Eli. "I knew it. I knew something was off. They’ve been tracking us, waiting for the moment we’d make a move. But they shouldn’t have been able to predict the exact second. Not unless—"
+"Down."
 
-"The Prophet isn’t here." Eli cut him off.
+Seth's hand was already moving. Four knives left his belt in the time it took Eli to drop, one two three four, thrown at nothing Eli could see, and then there was the dry sound of them arriving.
 
-It was not a question. It was certainty.
+Four bodies came out of the rubble on the left flank and did not get up.
 
-Seth stilled. “How do you know?”
+Nobody spoke for a moment. The ridge still had not fired.
 
-"This is just surveillance," Eli stated, his expression shuttered. "They set an ambush, but they weren’t predicting us in real-time. We weren’t outmaneuvered, just observed."
+"They were sitting on our flank." Seth was flat on his stomach with his cheek in the dirt. "Behind us. They've been behind us and I put soldiers to sleep twenty meters from them."
 
-Seth let out a slow breath, something close to relief. "Good. If the Prophet was here, we’d be dead already."
+"How long?"
 
-*Of course*, Eli thought. It was said The Prophet had never lost. That he had no need for weapons, no need for spies—because he simply knew. Every step, every move, before it happened. As if he had already lived every battle a thousand times over. For years, Auralis had fought against the weight of that certainty. And lost. Over and over. Every strategy unraveled before it was even conceived. Every step countered before it could be taken.
+"How the hell would I know. Days. They waited." His breath was coming hard. "They waited for the exact minute we moved, Eli, and there is one thing that does that—"
 
-And yet—
+"He isn't here."
 
-“Even if he was here,” Eli said, “we’re going to win.”
+Seth's head turned.
 
-His voice was steady. He needed it to be.
+Eli was watching the rubble where the four had come from. The bodies lay in a fan, all four facing the same way, and one of them had a lens on a mount beside his hand, still pointing at the barricade they had left.
 
-Seth narrowed his eyes. “You don’t believe in prophecy.”
+"Because they had to guess." Eli said. "They put men in the dark and waited. If he were here they wouldn't have needed to wait. We'd have walked into something already finished."
 
-“No,” Eli said. “I don’t.”
+Seth let out a breath that shook more than he wanted it to. "If it were him we'd be dead already."
 
-Eli clenched his fists, nails pressing into his palms. They had told themselves it was fate, that they were never meant to win, that the Prophet was something beyond human.
+"He can be here," Eli put his hand flat on the dirt and pushed himself up onto one knee, "It changes nothing tonight."
 
-But that had been then, back when they were weak.
+He had heard the stories the same as everyone. The Prophet did not carry a weapon. He did not need spies. Four years of it, every plan opening and coming apart before it was finished, and after enough of that the losses stopped feeling like losses.
 
-This was not then.
+"You don't believe in prophecy.” Seth watched him for a second in the dark.
 
-Even if the Prophet was here, even if he was a god in human skin—he was still human. And that meant he could bleed.
+"No."
 
-“We won’t bow to the future The Metropolis has given us.”
+"Not even after Halvern."
 
-Seth grinned, sharp and bright. “Damn right, we’ll not.”
+As he said that, the sky opened with light.
 
-*The border falls tonight.*
+It came without sound first, a white bloom low against the horizon, and the light reached them well before anything else did. Then the ground moved. Then the noise arrived all at once, one long tearing detonation folding into the next, five of them, six, and the whole field lit up orange and every person on it lay flat with their face in the dirt and their hands over their head.
 
-And as if the world itself had been listening, the armory exploded.
+The Citadel armory. Their western flank.
 
-Not theirs. Citadel’s.
+The shockwave went out in a ring and Eli watched it come, watched it take the smoke apart in a clean expanding circle, and then it was over them and the air was gone for a second and then it was back.
 
-A chain of detonations rippled through the enemy’s western flank, fire blooming silently in the distance. The shockwave rippled outward in a perfect ring, tearing through steel and smoke, devouring the air itself for one endless second. And then—
+And then nothing. No alarms. No shouting. No one running out of it. Just a fire burning by itself a kilometer away, the way a fire burns in a place where nobody lives.
 
-Silence.
+Drones came over it, three or four, blinking cold and even. One after another they dipped and went down into the flames and did not come out.
 
-No screaming. No panic. Just the eerie silence of a fire burning not too far away. A few Citadel drones streaked overhead, blinking like cold stars. One by one, they dropped and were pulled into the inferno.
+Seth was up on his elbows, grinning, teeth bright in the light of it. Then the grin went off his face.
 
-Seth’s eyes scanned the wreckage. And then his smile, wide with satisfaction just moments before, suddenly disappeared. “Decoys.”
+"Decoys."
 
-Eli followed his gaze. The wreckage—torn steel, shattered crates, debris still curling with smoke—was just that. Scrap metal. No ammunition, no stored weapons. Nothing but a hollowed-out corpse of a lie.
+Eli looked. The fire had taken the roof off the thing and was working through what was inside it, and what was inside it was coming apart in the wrong way. Crates burning through in seconds, nothing cooking off, nothing going up. Scrap steel and empty boxes and a great deal of very expensive smoke.
 
-Seth cursed. “They baited us. That was never their real supply base—”
+"They baited us," Seth said. "That was never a supply base. They wanted us to spend the night on it, they wanted us looking west—"
 
-“It doesn’t matter.” Eli cut him off, eyes fixed on the flames.
+"It doesn't matter."
 
-Seth let out a low breath, almost a laugh. “No? That was their best decoy, Eli. Who knows how much real tech they still have?”
+"No?" Seth laughed, and there was nothing in it. "That was their best decoy. That means the real one is somewhere we've never looked. Who knows what they're still holding. Who knows what they haven't shown us yet."
 
-“Let them have all the weapons they want.”
+"Let them keep it."
 
-──────✧──────
+Eli was still watching the fire. It came apart in the wind and the crates came apart inside it and the steel came apart after that, and the ridge above it stayed exactly as it had been, and not one shape on it had turned to look.
 
-There were no war cries, no rallying horns, no sound but the distant hum of a certain unnatural stillness, the kind that came before something unspeakable. Auralis did not march like an ordinary army—because they were not one.
+"We didn't come for what was in it," he said.
 
-Like the sky itself was melting, the wreckage of battle began to shift.
+The armory had been a building. Now it was a field of one, sheeting and framework and shutters and the ribs of the roof, four walls of good steel broken small and thrown wide across a hundred meters of open ground.
 
-Metal shimmered in the moonlight, no longer dead. It pooled together in slivers and droplets, rising from the earth in ribbons of liquid steel. The motion was slow at first, subtle, like the inhale of some great unseen force.
+It began to move.
 
-The Citadel sentries arrived too late.
+Not all at once. A few slivers came up out of the dirt and hung there, turning slowly, catching the moon along their edges. Then more. The scrap lifted the way silt lifts off a riverbed when something large has passed, and where two pieces touched they did not clatter, they ran together, and the running spread outward until the whole field was rising in ribbons and the ribbons were pooling and the pooling made no sound at all.
 
-Boots pounded against the dirt as they sprinted toward the ruins of their decoy armory, their eyes flicking across the empty field. No sign of an attack. Only silence. Only the strange, lingering scent of iron in the air. Then they noticed—
+The Citadel sentries reached the armory a minute later.
 
-The wreckage was gone.
+They came in from the east at a run, twenty of them, and they were good, and they went straight to the burn and found nothing to fight. No bodies. No sappers. Only the pit where the building had been and the smell of hot iron sitting heavy in the air. One of them crouched and put a hand flat where the wreckage should have been and did not find any.
 
-One of them crouched, fingers brushing the ground where twisted scrap should have been.
+Eli watched from four hundred meters out and did not see the moment they looked up, only the moment they all did at once.
 
-Then they saw it.
+The cloud came down.
 
-The cloud of metal hung above them, dense and shifting, its edges gleaming against the night. One of the Citadel sentries took a sharp breath. That was the only warning they had.
+It did not scatter and it did not break. It arrived as one thing and then it was a thousand things, silver and sharp and each one aiming somewhere, and the field below it filled with a sound like rain on canvas and then with a heavier sound, and then it was quiet again. The whole of it took less time than the running had.
 
-The cloud dropped like an executioner’s blade.
+A woman walked out through it. She had a bead of metal spinning on the end of one finger and she did not look down at what she was stepping past.
 
-It did not scatter. It did not shatter. The liquid metal struck like a singular force, forming a thousand silver needles, each with purpose, each with a target. Citadel soldiers ran, but droplets of living steel found them. A massacre without sound—only the wet, sickening weight of bodies hitting the ground.
+Behind her the cloud thinned and let people out. Twelve of them, whole, boots first, weapons already up, coming down out of the air like they had been carried there in a fist. They spread west without being told to.
 
-Through the carnage, a woman walked. A droplet of liquid metal spun at her fingertip, twisting and turning like a living, obedient thing.
+"You're welcome," she said. "That's what you paid for."
 
-She did not look at the bodies. There was no need.
+"Athena." Seth was brushing his coat off. He had gotten his grin back from somewhere. "Three days early and you still billed the rush."
 
-Behind her, the figures of the Auralis soldiers landed—untouched, whole, stepping from the dispersing cloud, untouched by any droplets. Their descent was silent, controlled, effortless, weapons already drawn.
+"I set your charges. I rigged your detonators." She was straightening a glove. "Without me you would be out there tonight trying to light a fuse with a match, so no, do not start."
 
-“You’re welcome,” the woman said, flicking the droplet away. “That’s all you paid for.”
+"We could use you past midnight."
 
-Seth watched her with a half-smirk, brushing dust off his coat. “What, no discount for being late again, Athena?”
+"You could not."
 
-Athena didn’t look at him. “I was generous enough to set your charges and rig the detonators. Without me, you’d be trying to light fuses with a match.” She adjusted the cuffs of her gloves. “Don’t push it.”
+"Just once I'd like to know what you're running off to that pays better than a war."
 
-“We could use you longer.”
+"Then you should have asked before you paid," Athena said, and she was already walking. "It would not have changed anything. I don't work for free."
 
-She scoffed. “You couldn’t afford me longer.”
+She went west and the dark took her and the twelve stayed where they were. Every one of them would still be alive in the morning, which was more than the rest of the army would be able to say, and they would not fire a shot all night, because the armory sat outside the grid in open country nobody had thought worth defending. That was why Auralis could reach it. It was also why taking it was worth nothing at all.
 
-Seth sighed, “Always so busy, huh? Sometimes I really wonder what you’re actually up to. What could possibly be more important than—”
+"Your plan looks like it's working, General," Seth said. "Shame whose name is on it."
 
-“None of your business.” Athena turned, already walking away. “Even if I wasn’t, I wouldn’t work for free.”
+Then he started walking, and the line went with him.
 
-“General Eli, your plan looks like it’s working,” Seth said, turning his attention back to the battlefield.
+There was no cover between the barricade and the ridge and nobody pretended there was. The plan was to walk it. Cross the border, take the grid, put out what was left of the western flank. There was nothing clever in it anywhere. It only required that Seth be at the front of it.
 
-“Remember, we don’t attack until they do. Keep losses minimal until they surrender.” Eli reminded them one last time. Then, with a slow exhale, he raised a hand. The air around Auralis shimmered—not with light, but with absence. To the eyes of the rest of the world, they no longer existed.
+The reserve line came up on the right and came fast.
 
-The Auralis soldiers moved like shadows, unnoticed, unseen. The plan was simple—vanish, pass the border, finish what was left of the Citadel sentries. It was supposed to be easy.
+The first rounds went wide and that was the only mercy in them, because it gave the line the half second it needed to understand that the next ones would not. Somebody was already moving. An Auralis soldier three ranks back threw her hand up and the air split open in front of her, a dozen ragged holes hung in the dark with nothing behind them, and the fire went into the holes.
 
-But the dead did not stay dead.
+It came out again behind the reserve line.
 
-Seth stopped first, his eyes narrowing. Something was wrong. The bodies—they were gone. Not moved. Gone. No corpses, no remains, only the stain of blood on the dirt.
+Their front rank went down into their own volley. Shields flared white along the Citadel flank, holding against angles that had no business existing, flickering, holding, and in the middle of it two sentries stepped back. Then four. Then the shape of the whole line changed.
 
-Then, the impossible moved.
+That was all Auralis needed.
 
-Figures with masks rose from the emptiness, unbroken, untouched. The Sentries. There was no hesitation, no confusion—only purpose. They did not look like soldiers who had been slaughtered moments ago.
+They went forward without slowing and without shouting and there was no fear anywhere in it, because they had done this before with Seth in front and it had gone the way it always went. The reserve broke off the flank and the ground ahead opened up, and then the ground ahead was the grid, and the whole line stopped.
 
-They looked like they had never died.
+Nobody had told them to stop. They just did.
 
-Seth’s breath caught. “What the hell?”
+You could not see it. That was the thing about it. Two hundred meters of ordinary dirt between them and the control house, and somewhere across that dirt were lines nobody had ever mapped, and the men who had gone looking for them had found them all at once and been cut apart from the sky in under four seconds. It had happened three times in four years. There were people in the line tonight who had watched it.
 
-And now they had weapons raised, eyes locked onto Auralis as if they had always known they were there, as if they had seen through their invisibility with eyes that defied even magic.
+Seth turned around.
 
-Auralis barely had time to react before bullets tore through the air. The first few shots missed, giving them a few precious milliseconds to realize that the next few may kill for real.
+"Hands," he said.
 
-The next shot rang out. But before it could reach its target, the air itself fractured. Someone from Auralis had moved faster. Portals erupted like shattered glass in the darkness, hundreds of yawning voids swallowing bullets mid-flight. A heartbeat later, the same portals reappeared behind the sentries. The frontline collapsed in an instant. Shields flared, flickering as they held against bullets from angles that should have been impossible. In the chaos of gunfire, the first few Citadel sentries took a step back. The rest followed.
+Eli came up beside him and took his wrist, and something went out of Eli's palm that was not smoke and was not light. It was blue, and it was thin, and it caught. Eli held it a moment and then let it go and it went back along the line, hand to shoulder to hand, finding people the way water finds the low ground, and every man and woman it reached felt it settle somewhere under the ribs and did not have a word for what it was.
 
-And that was all the opening Auralis needed.
+Seth had always been able to walk this. Anyone who had served with him knew that. His luck had never once failed him and it had never once left him, and every man he had ever brought across a live field with him had died on it while Seth walked out the other side untouched, and after the third time he had stopped bringing anyone.
 
-They cast off their invisibility, stepping into full view of Citadel before they retreated further. One moment, the battlefield had been empty. The next, it was filled with soldiers from Auralis.
+The threads went out to two hundred and they held.
 
-Seth raised his hand, and that was the signal.
+"Slow," Eli said. He said it quietly and it carried the whole length of the line. "Nobody runs. If you run, you're deciding, and it doesn't work on people who are deciding."
 
-They moved without hesitation. No fear, no second thoughts—just forward, just momentum, just the certainty that Seth’s ability would not fail them. It had never failed before.
+Seth stepped onto the grid.
 
-The Citadel side of the border was a death trap, an invisible cage. They couldn’t see the lasers, but they knew that the moment a single line was breached, the sky itself would open up, cutting them down in a storm of precision gunfire. No one had ever made it through alive.
+Nothing happened.
 
-And yet—
+He took a second step and a third, and the line came after him, and nothing kept happening, two hundred people walking at a pace you would use to cross a courtyard, boots and breath and the blue running through them like a current through wire. The sky stayed shut. Somewhere behind the ridge a generator was turning over and they could hear it. Eli walked in the middle of it with his eyes forward and did not appear to be doing anything at all.
 
-Seth stepped forward, and nothing happened.
+The control house came up out of the dark unguarded, because nobody was ever supposed to get this far.
 
-The others followed, one step, then another. Still nothing.
+Seth put his hand on the console. He looked back over his shoulder before he did it, and whatever he saw in Eli's face made him pause half a beat longer than he needed to, and then he pressed it.
 
-He didn’t gloat, and they simply kept moving. The air was thick with the weight of lasers that should have come, with the presence of death that had decided—for whatever reason—to let them pass.
+The three at the panel went down where they stood.
 
-Because it wasn’t reason at all. It was him.
+There was no sound to it. The first went face forward and did not put a hand out. The second got as far as her chest, fingers closing on her own coat, mouth open on air that was not going anywhere. The third folded sideways into the wreckage and stayed folded.
 
-Seth’s gift had no logic, no pattern. It was chance, divine and absolute. As long as he was here, luck bent around them like a shield, twisting inevitability into impossibility, rewriting the script of reality with every breath.
+And behind them the grid came back up across the whole approach, and the sky opened, and it went on for a long time, and it carried.
 
-Eli barely blinked as they walked the tightrope between life and death, somehow untouched. If the others were holding their breath, he didn’t notice. His eyes stayed locked ahead.
+Eli did not turn around. He knew the count already. He had walked in at the head of two hundred and there had been eleven people through the door with him.
 
-The heart of the security grid was just a few steps away.
+Then the whistle.
 
-They reached the control panel, unguarded, because it didn’t need guards. No one was supposed to make it this far.
+It was thin and it was quick and it was already finished by the time it registered. Seth's hand went to his ribs the way you go for a splinter, unhurried, curious, and came away holding a dart, and then his fingers were not steady enough to hold it and it hit the floor.
 
-Seth’s fingers brushed the console. A pause, just long enough for him to glance over his shoulder, to see a fleeting look on Eli’s face that held just a whisper of something—something unspoken, something that had no time yet to be said before Seth pressed the button.
+"Ah," he said.
 
-At that moment, the world shattered.
+He sat down against the wreckage. He did it deliberately, the way a man does when he has decided sitting is better than the alternative, and Eli got a hand behind his shoulders on the way.
 
-The squad collapsed. No screams, no time to react. Just the dull thud of bodies meeting earth. The first fell face-first, exhaling a breath that would never be drawn again. The second staggered, hands gripping at his chest, gasping as if trying to drag air into lungs that no longer worked. The third didn't even have the chance to brace himself.
+The threads came up off Eli's palms again and wound down around Seth's chest and stayed there, blue and slow, tightening when his breathing tried to get away from him.
 
-Then—
+Because it had never failed him. That was the whole of it. Four years of never failing, and a thing that never fails is not chance, it is a shape, and a shape can be read off a page by anyone patient enough to sit with it. They had not been beaten here. They had been scheduled. Somebody had known which door Seth would come through and had left it open for him and had put a marksman on the far wall and gone home hours ago.
 
-A whistle. Thin. Sharp. Too fast to see.
+Eli had seen it two seconds before the button went down. He had watched Seth look back at him and he had not said it, because there had not been time to say it, and afterward he would not be able to remember whether that was true.
 
-Seth hadn’t even felt the dart hit. Not at first. Just the faintest pressure at his ribs, the way you might brush against a splinter and not realize it had embedded itself until much, much later. Then came the sting, sharp and cold. By the time he ripped it free, his fingers were already shaking.
+"So that's it, then," Seth said. His voice had gone somewhere far back in his throat. "It's over."
 
-For the first time in his life, he had missed the step of luck. He staggered, fingers clawing at the dart, tearing it from his skin.
+"No."
 
-“Shit,” he muttered as Eli caught him.
+"You're lying." He was not accusing. He sounded interested. "They're all on the approach, Eli. I heard it. So did you."
 
-This was a trap. Not just the lasers. Something more… unexpected.
+"Not all of them."
 
-The switch was never meant to disable the security grid. It had been rerouted. Eli saw it now, only it was too late. If only he realized a few seconds earlier how the sequence could have been reprogrammed, how the enemy had waited, patiently, for them to reach this exact spot. They had been led here, manipulated by their own faith in an ability that had never once failed them.
+"You're lying."
 
-Because that was the point, wasn’t it?
+Eli did not look away from him. This was the part that had to be done properly. "He missed," he said.
 
-Predictability.
+Seth's eyes came up.
 
-A thing like luck—true, absolute luck—wasn’t random at all. It was a pattern. It could be predicted.
+"The Prophet has never lost a battle in four years and tonight he had you standing still at a console with your hand on a button, and he sent one dart." Eli let that sit exactly long enough. "You're breathing. I'm here. There are people out past the wall who are not dead and are getting up right now. If he were what they say he is, none of that is true. He saw one thing and he took it and he took it wrong."
 
-And now, the same thing that had carried them through countless battles had led them here, where they could be pinned in one place.
+Seth was quiet. Something moved behind his face, and Eli watched it move, and watched it take.
 
-Seth’s eyes closed for a fraction of a second. The dart clattered to the ground, and when he exhaled, it was unsteady.
+"That's right," Seth said. His voice came up out of nowhere, cracked and much too loud for the state of him, thrown out at the dark past the console, at nothing, at the whole black ridge. "You still can't kill me, can you? Come on. Where's the speech. Where's the part about how it was always going to happen this way. If you're so damned sure of it, come down here and say it where I can hear you."
 
-Poison.
+Eli let him have it. The alternative was quiet, and quiet was worse than anything Seth could shout.
 
-“Don’t move.” Eli’s voice cut through the static, calm in a way that wasn’t natural. It wasn’t reassurance. It was control. The kind meant to keep something fragile from shattering.
+He kept his hands where they were and his face where it was, and he did not say the other thing, which was that he had walked ninety meters of live ground tonight with no more protection than anybody else and had never once expected to be hit.
 
-Blue threads of something not-quite-smoke and not-quite-light curled from Eli’s hands, weaving through the air. They wrapped around Seth, a tether, a breath. An anchor to calm, to keep him from slipping too fast. But Seth didn’t move at all, as if he was already dead.
+"Leave it to me," Eli said. "You've done your part. Rest."
 
-His body slumped against the wreckage, head tilting back as he let out a short, breathless laugh. “So that’s it, then,” he muttered, voice thin, hoarse. “It’s over.”
+Seth started to argue and did not have it in him. Eli got him up under the arm and carried more of his weight than either of them acknowledged, back out through the broken wall to where the camp fires reached, and set him down against stone with his head tipped where the air was cleanest. Two fingers to the inside of his wrist.
 
-Eli didn’t answer immediately. Couldn’t. Because Seth was right. The others weren’t just out of sight. They weren’t pinned somewhere safe, waiting for a signal. They were gone.
+Still steady.
 
-But Eli couldn’t say that. Not now. Instead, he forced his voice into something steady, something almost real. “No. Not all of them.”
+"I'll come back for you," Eli said.
 
-Seth’s eyes flicked up, dull and tired. “You’re lying.”
-
-“The Prophet isn’t what he is known to be,” Eli began quietly, “He failed to kill us. He failed to kill you. And he failed to kill the others. They’re out of view, regrouping. He isn’t a god. If he was, we’d already be dead.”
-
-Seth didn't respond, didn’t even look at Eli directly, but something flickered behind his eyes. Something Eli caught.
-
-“He isn’t all-powerful,” Eli pressed. “He saw one future and assumed it was the only one. But he’s wrong. If he could truly predict everything, why aren’t we dead yet?”
-
-A pause. Then Seth exhaled a slow, shallow breath. “That’s right,” he murmured. “You still can’t kill me, can you?” His voice rose, sharper now, turning toward the unseen presence in the distance. “What, no speech about fate, great Prophet? About how this was inevitable? If you’re so sure, if you really think your prophecy means anything, why don’t you say it to my face?”
-
-Eli let him speak. Let him hurl defiance at the empty air, because the alternative was silence, and silence was dangerous.
-
-Seth didn’t know. He couldn’t know. That everything was as he thought, that Eli himself had survived not because of luck, but because he was not meant to die *yet.*
-
-That was the worst part.
-
-Eli took a breath. “Leave the rest to me,” he said. “You need to rest. I’ll handle it from here.”
-
-Seth hesitated, but he was too weak to argue. Eli guided him to a safer position, somewhere out of sight, his fingers brushing against the pulse at Seth’s wrist—still steady.
-
-Then he turned away.
+Then he turned around and went the other way.
 
 ***
 
-The instant Eli crossed the threshold of the enemy camp, he knew something was wrong.
+He came over the last of the wreck line into the enemy camp and knew inside three steps that he had walked into something.
 
-The air was heavier here, thick with the metallic scent of gunpowder and the acrid bite of oil. Fires burned low in steel-drum braziers, their embers pulsing like dying stars. The Citadel insignia loomed over him on banners stretched taut by the wind, casting long, skeletal shadows over the soldiers sleeping in their cots.
+Not from what was there. From what wasn't. There were braziers going in cut steel drums with the coals down to a low red, and the banners were up and pulled tight by the wind so the insignia on them stayed legible, and the cots were in rows with people in them. A hundred, maybe more. Everything a camp is supposed to have.
 
-It was too quiet.
+And no sound. Not one.
 
-Too quiet. A battlefield was never silent—not truly. Even in sleep, men muttered. Boots scuffed against the dirt. Somewhere, someone was always sharpening a knife. But here? Nothing. The absence crawled beneath his skin like something alive, whispering in a voice he could not place. Leave. Leave. Leave.
+A camp at night is never silent. Somebody always talks in their sleep. Somebody is always up with their boots off working a stone along an edge, or coughing, or getting up to piss, and Eli had been in enough of them that his body knew the noise before his mind did and went looking for it and did not find it.
 
-His fingers tightened around the hilt of his sword.
+His hand closed on the hilt.
 
-And then, all at once, air itself ignited.
+The air came apart.
 
-A hundred shots, no hesitation. Not like before. These weren’t the empty warnings of humans. These were machines, automatic turrets firing execution rounds. Every single one meant to kill. There was no time to think, only time to act as bullets collided with the blade of his sword, ricocheting off in sparks.
+It was not the sentries on the ridge and it was not a warning. It came from four sides at once and it did not stop to see what it had hit, a flat continuous hammering out of the dark, and the first rounds were already at him when he got the blade up. They came off it in sparks and he felt each one go up his arm into the shoulder, and the sword was steel, and the steel was ringing, and the barrels were tracking.
 
-Metal.
+Steel.
 
-He let go. The blade clattered against the dirt, and the next instant, thin wisps of strings unraveled from his fingertips into an intricate lattice, catching the bullets mid-flight. A fraction too slow—one grazed past his shoulder, leaving a thin line of blood against his skin.
+He let it go.
 
-The bullets stopped, long after what would’ve killed any intruder. And it was only then did Eli hear footsteps from the shadows.
+The blade was still turning in the air when the threads came off his hands. They went out fast and fine and crossed themselves twice, a lattice thrown wide in front of him at the height of a man's chest, and the rounds went into it and stopped and hung there, and the lattice sagged under them and held. One had gotten past before it closed. It opened a line across his shoulder that he did not look at.
 
-Around him, the camp stirred. Shadows shifted. Boots scuffed against dirt. Low voices, clipped and uncertain, as soldiers blinked themselves awake, roused by the noise.
+The turrets kept firing.
 
-Eli expected the entire camp to be upon him, alarms blaring, spotlights cutting through the darkness. But instead, there were only three of them. The rest—still.
+They fired long after anything alive would have stopped being alive, long past a person, long past two people, a machine finishing a number it had been given. Eli stood behind the lattice with his hands out and let it take the whole of it, and the metal piled up in the air in front of him like rain caught in a web, and the noise went on and on until it did not.
 
-Eli didn’t wait.
+The quiet after it was worse.
 
-At a flick of his wrist, wisps wove through the air like ink dissolving in water, curling, tightening, closing in. Then the soldiers dropped. Not in pain. Not in shock. Just down. Soft as feathers, heavy as stone. Their weapons clattered against the dirt, their limbs slack where they fell.
+Then boots. Three sets, coming from between the tents.
 
-Not dead, asleep.
+Around him the camp stirred, finally, the way anything stirs. A cot creaked. Somebody said something low. Somebody else answered and stopped answering. He waited for the alarm, the lights, a hundred people coming up out of the rows.
 
-Eli stepped over them, kneeling down to check the rhythmic rise and fall of their chests. The peaceful, almost gentle expression on their faces.
+Three. Only ever three.
 
-And then, a shift in the wind. A breath of movement at his back. The moment he felt the cold press of a gun against his skull, he knew he had made a mistake.
+He did not wait to find out why. His wrist turned and the wisps went out through the dark like ink dropped into water, opening as they went, unhurried, and the three of them got as far as raising their weapons.
 
-“Don’t move,” the soldier warned.
+Then they went down.
 
-Eli went still. He did not look. Did not speak. He only raised his hands—slowly, deliberately.
+Not hard. Their knees gave and the rest of them followed, and the rifles hit the dirt before the bodies did, and the bodies came to rest badly the way sleeping bodies do when nobody has laid them out. Eli went to the nearest and crouched and put the back of his hand near the mouth and felt breath. The man's face had gone slack. Whatever he had been carrying in it a second ago was not in it now.
 
-The soldier didn’t shoot immediately. That was his mistake.
+Eli was still crouched there when the wind changed at his back.
 
-Eli moved in an instant.
+The muzzle touched his skull just behind the ear.
 
-A single, precise motion—his hand snapped to the soldier’s wrist, twisting it sharply enough that the gun fell from numb fingers. A swift kick, and the soldier stumbled backward, hitting the dirt hard.
+"Don't move."
 
-Eli’s sword was in his hands before the man could rise. But the soldier didn’t reach for his weapon. He did not move to run. He only sat there, shoulders heaving, the light from the fires glinting off the cracks in his mask. It had shattered when he hit the ground, spiderwebbing from temple to jaw, and now Eli could see his face.
+He didn't. He didn't turn his head and he didn't speak. He put his hands up, slow, and let them be seen.
 
-Not the face that Eli imagined.
+The gun stayed where it was.
 
-Just a man. A man with exhaustion carved deep into the hollows of his cheeks, his lips cracked, his eyes rimmed with dark shadows. He looked like he had not slept in days. Maybe weeks. Maybe longer. He looked like someone who had spent his entire life losing, just like Auralis before the Cataclysm.
+That was the mistake. Half a second of it, maybe less, but Eli had spent his whole life reading the length of other people's pauses and he moved into this one. His left hand came up and caught the wrist and turned it past where a wrist goes and the pistol dropped out of fingers that had stopped being able to hold it, and his boot went into the man's chest and put him on his back in the dirt.
 
-“Surrender,” Eli pressed his sword against the soldier’s throat. “You won’t die.”
+The sword came off the ground into Eli's hand.
 
-A bitter laugh clawed its way out of the soldier’s mouth. “Just do it.”
+The soldier did not go for the pistol. He did not roll or scramble or shout for the camp. He sat up in the dirt with his shoulders going and stayed there.
 
-Eli hesitated. There was something wrong with the way the soldier said those words. “You don’t want to die.” Eli said.
+His visor had broken when he landed. It had gone from the temple down across the jaw in a long web and the firelight was getting in behind it, and through it Eli could see a face.
 
-“And you think I want to live?” His hands curled into fists, dirt and blood caking beneath his nails. “Go on. You’re the dreamweaver, aren’t you? You have *that* ability.”
+He had not expected a face.
 
-“How did you know?”
+A man somewhere past thirty. Cheeks gone hollow, lips split, the skin under his eyes gone the colour of a bruise. He looked like a man who had not slept properly in a very long time and had stopped expecting to. He looked, Eli thought, like the people he had grown up beside.
 
-“Of course I know. Who wouldn’t want to know about a army general who could make people live out their wildest dreams before they died?” The soldier laughed. “So do it. Kill us while we sleep. You can do it, just like that. Kill us in our beds, in our camps. Make it easy. End it.”
+Eli put the point of the sword against his throat.
 
-“I don’t want to kill you,” Eli said quietly. The words felt inadequate. Meaningless.
+"Surrender and you don't die."
 
-“Then don’t fight. Walk away. Leave.” His voice rose. “You didn’t *have* to fight. We didn’t *have* to be here. None of us did. But you—*you*—you pushed the borders, you made this happen, and now look.” His voice cracked. “Look at what you’ve done.”
+The laugh that came out of the man had nothing in it.
 
-Eli looked. And for the first time, he *saw*. Really saw.
+"Do it."
 
-The bodies. The rivers running red. The smoke curling in the air like whispers of the dead. The weight of it all came crashing down on him, sudden and suffocating. His hand trembled on the hilt of his sword.
+"You don't want that."
 
-“We could have stayed on our side,” the soldier whispered. “Why do you think we hold the border and don’t advance? Why do you think we only ever shoot when you cross? We’re stalling. We’re pretending. Doing the bare minimum to pass as useful without murdering a hundred people on the way. You think we don’t feel the bullets we fire?” The soldier took a step forward, pressing against the blade at his throat, forcing Eli to look at him—*really* look at him. “You want to know why we never hit you? Why we ‘miss’?” His voice wavered, breath ragged. “Because we aim to miss.”
+"You don't know one damn thing about what I want." He shifted forward. The blade did not move and he came against it anyway, and a bead of blood came up along the edge. "Go on. You're the dreamweaver. You're the one they warn us about. Put me under first, if it makes you feel better about it."
 
-Eli exhaled sharply. “That’s not—”
+"How do you know what I am?"
 
-“Not possible?” The soldier let out a dry, empty laugh. “You think Citadel is invincible, don’t you? That we’re soulless machines that somehow don’t bleed.”
+"Everyone knows what you are." Something ugly opened in his face. "The general who gives them a nice dream on the way out. That's the story. That's what gets passed around. Half the people in this camp have decided that's the good way to go and the other half won't say it out loud." He spread his hands wide, and the wideness of it was worse than shouting. "There's a hundred of us in those cots. They're not going to wake up. You could walk down the rows. You could do the whole camp before dawn and none of them would ever know it happened. Isn't that what you came for? So do it. Be merciful. Be the thing they say you are."
 
-Eli’s stomach twisted. “Is that not true? Your numbers have been the same. We counted. We saw with our own eyes.”
+"I'm not going to kill you."
 
-“Of course they look the same,” the soldier said, shaking his head. “That’s why the Prophet makes us wear masks.” He reached up, yanking at the shattered remnants of his own, tearing it free, revealing his face in full. “This is his strategy. He doesn’t replace us. He just *hides us*. Hide the wounds. Hide the deaths. Replace us until every last one is dead.”
+"Then leave." His voice cracked in the middle of it and he kept going through the crack. "That's the other option. That's the one you've had since the day you got here. You want to know what I can't get out of my head? Not one of us moved. Four years. Not one meter. You came *here*. You wrote it down and you signed it and you sent people across, and every single one of them out there in the dirt is out there because you decided the border was in the wrong place." He was shaking now, and it was not fear. "Look behind you. Go on. Look at it and then tell me again what you're not going to do."
 
-Eli’s breath caught. He had heard the stories, the legends of the Prophet’s visions, how he predicted victory before battle. But if he already knew they would lose—
+Eli looked.
 
-“Then why engage in this battle at all?” Eli asked, voice barely above a whisper. “If he knows the outcome, why doesn’t he stop it?”
+He had been looking at that field for four days from behind a barricade and he looked at it now from this side, from the middle of it, and it went out flat and dark toward the fires and there were shapes on it all the way to where the smoke closed. Grey and not grey together. He had stopped counting at forty, from the other side, in daylight. He had not thought to start again.
 
-The soldier’s expression twisted. “You think he *tells us* anything?” His voice was hoarse, raw from shouting, from the weight of something Eli couldn’t quite name. “He doesn’t. He tells us to *wait*. That no matter what, the future comes. That it’s inevitable.” He let out a ragged breath. “Me, you. All of us. Just waiting to become cannon fodder for some grand future we’ll never see.”
+The sword shifted in his hand and he steadied it.
 
-Something inside Eli twisted painfully. His throat felt tight. “Then why keep fighting?” His voice was softer than he intended. “Why not stop?”
+"We hold the line," the soldier said. "We don't cross it. Have you never once asked yourself why? We shoot when you come over and we shoot to make a noise, and we go back to standing there, and nobody in this camp has advanced one step since the day we got put here." His breath went ragged. "You've been out there four days wondering why you're still breathing. You want the answer? We aim to miss. Every one of us. That's the arrangement. That's what we do all day."
 
-“You think I don’t want to?” He looked at Eli then, really looked at him, like he was finally seeing him for what he was. “God. You still don’t get it.”
+"They put nineteen of ours in that field."
 
-Eli hesitated. “Then tell me.”
+"Because you kept *coming*." The man's voice tore. "How many times. How many times can a hundred people aim wrong before somebody upstairs starts checking the numbers. You put men on that ground in daylight in a straight line and you left us nothing to do with it—" He stopped. He was breathing through his teeth. "Sixteen. I know the number too. I know it better than you do. I was on the west side and I watched it and I can tell you what order they went down in."
 
-“You Auralis bastards,” the soldier spat, voice shaking. “You think we have a *choice*? We’re not like you. You think we fight because we *believe* in something? Because we *want* to? We’re not heroes. We’re not zealots. We don’t dream about some stupid meaningless revolution, because we have *things to lose*.” His rising voice suddenly dropped. “Do you even know what happens to a Citadel soldier who refuses to fight?”
+Eli said nothing.
 
-Eli didn’t answer.
+"We've been killing you for four days," he said at last. "It changed nothing."
 
-The soldier laughed—harsh, brittle. “If I don’t fight, they throw me out. They take my name, my home, my rations, my *papers*. They send me out into the slums.”
+"Of course it changed nothing." No breath behind the laugh at all now. "We're not the line. We stand in front of it. That's the entire job, that's what we're for, and you could put every one of us in the ground tonight and there'd be fresh ones on that ridge before the sun's properly up and the border would be exactly where it is." He tipped his head at the dark. "It doesn't end. There's no version where it ends. It just keeps going until there's nobody left to stand there."
 
-He looked Eli dead in the eyes, and said his next words slowly, deliberately.
+"Then why stand there?" Eli's voice had dropped without his choosing it. "You're telling me nobody here wants this. So walk. Tonight. All of you. Who stops you?"
 
-“And then, I become *you*.”
+The man looked up at him.
 
-Eli’s blood ran cold.
+And something changed in his face, and what it changed into was not anger. It was a kind of astonishment, the sort that comes over a person when they finally understand the size of the gap between themselves and the one they are talking to.
 
-“*I’d rather fucking die.*”
+"God," he said. "You really don't know."
 
-The wind howled through the battlefield. Eli said nothing. He didn’t know what to say. Didn’t know if there *was* anything to say. The soldier had poured out his soul, had ripped himself open and laid himself bare, and for what? For Eli to pity him?
+"Then tell me."
 
-And so, he did the only thing he could do. Slowly, carefully, he lowered his sword.
+"You think we're out here because we believe in something." He said it very quietly. "That's it, isn't it. That's the whole shape of your head. You think everybody's like you. Somebody stands in a field for four years, there must be a reason, there must be a cause, there must be some beautiful thing they're doing it for." He pushed himself up onto his knees, and the blade went with him, and he did not seem to notice it. "We're not you. We don't have a dream. We're not heroes and we're not zealots and there is nothing at all in this for us. We just have things to lose. Do you understand that? That's the difference. You've got nothing, so you can want everything."
 
-The soldier’s breath hitched, shoulders tensing like he still expected a killing blow. But none came. Eli didn’t move. The soldier didn’t either. For the first time, they just stood there.
+"What happens if you refuse."
 
-“What’s your name?” Eli asked.
+"They take it." His hands closed in the dirt. "The name. The papers. The housing. The ration card. Your family's card, if you're the one it's under. They walk you out past the wall and the gate shuts and that's the whole procedure, it takes about an hour."
 
-The soldier shook his head. “You don’t get to ask that.”
+He was looking straight at Eli now, and he slowed down, and he put every word where he wanted it.
 
-And in that single, irreversible moment, Eli had made his choice.
+"And then I'm you."
 
-He turned, sweeping his gaze across the unconscious Citadel soldiers sprawled in the dirt. The ones he had downed. The ones who—by every law of battle, by every rule of survival—should already be dead.
+The wind came across the camp and moved the banners and did not move anything else.
 
-But they weren’t. Because he hadn’t killed them. Because, against all reason, against every instinct screaming at him that this was a mistake, that they would wake and turn their guns on him, Eli had made the call.
+"I'd rather fucking die."
 
-And now, he had to trust it wouldn’t backfire.
+Eli did not answer.
 
-The dream unraveled like silk pulled loose from a seam—soft at first, then all at once, dissolving into nothing. The Citadel soldiers stirred, the remnants of their dreamscape clinging to them like dust in the hollows of their minds. Their eyes darted, confused, hands flexing like they were reaching for something that had slipped between their fingers.
+He stood there with a sword against a man's throat and a hundred people asleep in rows behind him and nothing came, no answer, nothing that would have been worth the air. Whatever the man had just cut himself open for, it had not been for this. It had not been for Eli to feel sorry.
 
-A sharp inhale. A rustle of fabric.
+He lowered the blade.
 
-Eli watched as the soldiers rose. Faces creased in confusion, breaths still soft, unguarded—the ghost of something peaceful still lingering in the way they blinked, the way their hands hesitated just a fraction of a second before closing around their rifles.
+Neither of them moved.
 
-Then, one by one, their gazes sharpened.
+"What's your name," Eli said.
 
-The first gun cocked.
+"You don't get to have that."
 
-Another.
+Eli looked at him a moment longer. Then he turned and looked at the three lying in the dirt where he had put them down, and past them at the rows of cots going back into the dark, all of it breathing, none of it his.
 
-But that wasn’t the problem. The problem was it wasn’t just three soldiers anymore. Eli heard rushed footsteps approaching from afar, slightly further than firing range. The rest of the Citadel survivors had arrived.
+By every rule he had ever been taught, they should already be dead. They would wake in an hour. They would find their rifles where they had dropped them. They would know exactly which direction he had gone.
 
-Jax’s personally commanded unit was fast. Fast to fire too.
+He left them where they were.
 
-Eli barely had time to react before the air split apart with a second hail of bullets. The crack of gunfire sent shivers through the ground, sharp as breaking glass. Eli moved before he thought, feathers catching the wind as he launched upward. He felt the bullets pass beneath him, slicing the air next to where he had been only moments ago.
+He had gotten four steps when he heard the boots.
 
-Below, the Citadel soldiers turned their guns skyward, scanning for his silhouette against the clouds. They would find him. He had seconds to decide where to go. So Eli made his choice.
+One set, unhurried, coming down the row between the cots. Not the sound a person makes crossing ground they think is dangerous. Eli turned with his hand loose at his side and did not raise the sword.
 
-He folded his wings and dropped.
+She stopped a good ten meters out and put her weapon on him from there, two-handed, level, and did not come any closer.
 
-Dust and dirt exploded outward, a shockwave rippling through the field. The soldiers whirled around, staggered back, caught off guard—not by the fall, but by where he had chosen to land.
+"Hands where they are."
 
-Right in the heart of them. Citadel soldiers suddenly surrounded him in tight formation, guns raised, every single one locked onto his vitals. And yet they did not fire. Not immediately. That gave Eli a second to—
+Behind her the camp had woken properly. He could hear it now, movement in the rows, cloth and metal, somebody saying a name twice. Nobody came out into the open. Whatever she had told them before she walked down here, they were holding to it.
 
-“Stop!”
+Her eyes went over him once. The lattice hanging in the air behind him with a night's worth of ammunition caught in it. The three sleeping in the dirt. The line opened across his shoulder, which had bled through and stopped, and which she looked at for exactly as long as it took to price it, and then did not look at again.
 
-The world froze.
+Then she saw the man on the ground.
 
-Hands that had been gripping triggers now hovered in the space between certainty and doubt. The weight of years of hatred crashed into them in the shape of a single, impossible command.
+The soldier had not moved. He was still on his knees where Eli had left him, hands slack in the dirt, visor cracked open from temple to jaw and his whole face in the firelight, and he did not turn around when she came up. He looked at nothing. He looked like a man waiting for the second half of something.
 
-*Stop.*
+"Corporal."
 
-“Are you out of your damn mind?!”
+He didn't answer.
 
-The voice didn’t come from the ranks of Citadel. It was from a voice Eli recognized—Seth.
+She held there a moment. Eli watched her work through it and saw the exact moment she understood what she had walked into — not the intruder, not the turrets, but the shape of two people who had already finished talking.
 
-“You think we lay down our arms and hope they do the same?!” Seth’s voice was unsteady with fury. “You—Eli, you could take them down yourself. What, a dozen people with guns? You’re a goddamn General. You could’ve fought worse and *won*.”
+"How much did he say."
 
-Eli said nothing, because Seth was right. He could take them down. Could reduce this moment into ash and ruin. Could carve through their ranks like a storm, leave nothing but bodies in his wake.
+"All of it," the soldier said, to the dirt.
 
-*But that was the problem, wasn’t it?*
+Eli said nothing at all. There was a version of this where he told her what he'd been given and used it, and he could feel the shape of it in his mouth, and he let it sit there.
 
-Citadel’s own generals could do the same. It would never stop. It would always be another battle. Another war. Another line drawn in blood.
+"Get up," she said.
 
-“You.” Jax’s voice was quiet. Controlled. She still held him at gunpoint. She was the only one who had not lowered her gun. “Who do you think you are?”
+The soldier's shoulders went tight.
 
-“You’re fighting the wrong people,” Eli met her gaze. “This war—” he let the words settle, slow and deliberate “—should not exist.” he paused. “We're not different. We’ve never been different. We’re all being crushed under the same hands. You, me, them—" He gestured to the soldiers behind her. "—we live and die at the commands of people who will never set foot on this battlefield."
+"You can stand up, Corporal, or I can have two people carry you, and one of those is worse for you in the morning." Her weapon had not moved off Eli by a degree. "Up. Go find Weisz and sit down somewhere. That's all that's happening."
 
-Silence.
+It took him a long time. He got a hand under himself and rose badly, and when he was up he stood there swaying with his ruined visor hanging off the side of his head, and he looked at her the way you look at someone who has just failed to do the thing you were counting on.
 
-The kind of silence that felt like a held breath. The kind that came just before a gun fired, or before a man decided to lower his weapon instead.
+Then he went. Eli listened to him go all the way down the row.
 
-“You think I don’t know that?” she asked, voice quieter now, but no less dangerous. “You think my soldiers don’t?”
+"You'll do nothing to him," Eli said.
 
-Eli shook his head. “I think you do,” he admitted. “I think you’ve known it for a long time.”
+"You don't get to negotiate for my people." She adjusted her stance a fraction. "Who do you think you are."
 
-Jax’s grip on her weapon tightened. Eli took a step closer.
+"Eli. General, Auralis."
 
-“We don’t have to fight this war.”
+"I know what you are." Flat. "I asked who you think you are."
 
-"You want us to defy orders?"
+"Someone standing in your camp who hasn't killed anybody in it."
 
-"No," Eli said, carefully. “I want you to ask yourself—who benefits from this order?”
+"Yet."
 
-Jax’s grip faltered for just a fraction of a second.
+"At all." He let his hand open, away from the sword. "That's the offer. Both of us walk off it tonight. Nothing in writing."
 
-Far above, in those golden rings of light, in the highest penthouses, the Metropolis was listening. Watching. Or maybe they weren’t. Maybe this small, forgotten war meant nothing to them at all.
+"And your name for mine, is that what this is?"
 
-“We walk away.” It was as simple as Eli said those words. “We take our people and we leave. No reports. No retaliation. We pretend this battle never happened.”
+"It's customary."
 
-A sharp exhale from behind him. Then, Seth’s laugh—short, dry, devoid of humor. “God, Eli. You’re still just as naive as ever. You think they’ll stop?” Seth shook his head, “Citadel won’t stop. You think we just walk away and everything is fine?” His voice dropped lower. “You think *we* will stop?”
+"Kessler," she said. "That's what you'll use."
 
-Eli didn’t answer. Ignored him, because that was easier.
+Nobody in Auralis had a second name. Nobody in the slums ever had. Names like hers came from inside the wall, one to be used and one to be given, and she had told him which of the two he was getting.
 
-“We all know we’re being used, but knowing doesn’t change anything,” Jax murmured. “You want to stop this war? Go tell the Metropolis. Tell the Prophet. Tell the people who actually have power.”
+"Now say the rest of it. Nobody crosses a live approach to propose peace."
 
-“You’re not free,” Eli said softly. “But you can choose freedom.”
+"Your corporal said it better than I'm going to."
 
-Jax let out a slow, sharp breath. And then—she laughed. It wasn’t cruel. It wasn’t mocking.
+Her eyes did not move off him. "My corporal talks too much."
 
-“You think *you’re* free?”
+"He was right, though."
 
-There was a long silence before Jax lifted a hand to her earpiece. Then—quietly, so quietly Eli barely heard it—she murmured into her comms.
+"Being right isn't worth anything out here. If it were, we'd all have gone home years ago." She let that sit. "Understand what you're asking for. You're not asking me to stop shooting. You're asking me to hand back the reason I'm here. This is an assignment. Assignments are how a person stays on the right side of a wall. A border that doesn't need holding doesn't need a general holding it, and a general nobody needs goes back through the gate with everything she has still inside it, and I have watched that happen to better officers than me."
 
-“...Can we?”
+"Then hold it. Hold it exactly as you're holding it. Nobody has to know the line stopped being contested."
 
-Eli’s breath caught.
+"For how long."
 
-She wasn’t speaking to him. She wasn’t speaking to her soldiers.
+"As long as we both keep our people off it."
 
-She was speaking to the Prophet.
+"And when someone in a warm room notices that a contested border has gone eleven months without a casualty?" Her voice did not rise. It got flatter, and the flatness was the tell. "Do you think I'm arguing with you, General? I'm not. It's the best offer I'll be handed this year. If it were mine to take I'd have taken it before you finished the sentence."
 
-For a long time, she stood there, listening. The radio crackled, too low for anyone else to hear. But Eli could see the way her eyes flickered, the way her shoulders tensed at whatever answer she had been given.
+"Whose is it."
 
-Jax lowered her gun.
+"You know whose."
 
-And, after a moment, she spoke.
+"I've never met him," Eli said. "Neither have you."
 
-“Retreat.”
+Something in her went very still.
 
-Eli felt himself exhale. Slowly, weapons were put away. There were no cheers, no celebration. Just the quiet, exhausted movements of soldiers who had been expecting to die.
+"No," she said. "Nobody has. Four years, and not one of us could tell you what he looks like or what room he stands in. There's a voice. The voice is right. " Her hand had drifted to her ear without her noticing. "So no, I won't be asking. There's nothing to ask. He doesn't take requests and he doesn't take reports and he doesn't wait on either. He's been listening since before you came over the wreck line. He knows you put four of mine to sleep and watched you check whether they were breathing, and whatever you think you did tonight he had a week ago. There's no version where he lets go of this border. There's no version where he even lets me finish saying—"
 
-Jax moved past Eli. She did not look back. As she passed him, she murmured something almost lost to the wind.
+She stopped.
 
-“I hope we never have to meet again.”
+Her eyes went out of focus.
 
-And then she was gone.
+She held there, entirely still, weapon half-raised, two fingers against her ear, and Eli watched her listen to something that took less than three seconds.
+
+"Say again."
+
+The fire in the nearest drum shifted and settled. Down the rows a man coughed and was told to be quiet.
+
+She listened.
+
+Something happened in her face then that Eli would think about for a long time and never manage to name. Not relief, closer to someone who understands immediately that this is not good news, only new news.
+
+"Understood."
+
+The weapon went down.
+
+"Retreat."
+
+It went back through the rows in pieces, one voice handing it to the next, and it took a while to reach the far end of the camp because nobody believed it the first time. No one cheered. There was only the sound of a hundred and thirty people arranged for something else finding out they would not have to do it, and beginning, slowly, to put things away.
+
+She looked at nothing for a moment longer. Then she was a general again, and it took her no effort at all.
+
+"First light, you clear your field and we clear ours. Nobody makes another move. After that the border is where it was."
+
+"Thank you."
+
+"Don’t thank me. You'll be back." She was already moving. "In the spring, or whenever somebody decides. That's the part you should be thinking about, General. Not me. Not you. Whoever just decided."
+
+Then she was down the row and among her own people, and Eli stood alone in the middle of the enemy camp with a hundred and thirty rifles going back into their racks around him, and out past the wire the field lay flat and dark and full, waiting for the light.
 
 ***
 
-Seth exhaled. It was over. Against all his wishes, the battle was over. He hoped it was luck that brought them here, that this really was the last battle, the best outcome.
+Seth let his breath out.
+
+It was over. Against everything he had wanted from it, it was over, and the border was where it had been on the first morning, and he found that he could live with that. He had gotten nineteen names and would get to say them over ground that belonged to nobody. It was not what he had written the report for. It would do.
 
 Then he coughed.
 
-His ribs trembled with the force of it, and then—red. A slow trickle of blood from his lips, sliding down his chin, dripping onto the back of his hand.
+It came up out of him harder than it should have, and when he took his hand away from his mouth there was red across the back of it, thin and bright, and more of it on his chin.
 
-He blinked. The world felt… off. Skewed. As if he had been standing at the edge of a precipice without realizing it, and now he was tipping forward, caught in the inevitable pull of something vast and unseen.
+He looked at it.
 
-The poison.
+He had taken the dart out. He remembered the exact weight of it between his fingers and the small resistance when it came free, and he had thrown it and heard it land. He had stopped it.
 
-No—no, that was impossible. He had ripped the dart free. He had felt the sting, the shallow bite of metal in his skin, and he had torn it out before it could do anything. He had stopped it.
+The second cough took him down onto one knee.
 
-*Hadn’t he?*
+"You shouldn’t have taken it out."
 
-Another cough racked through him, his lungs spasming as if something inside was unraveling, threads of him being suddenly pulled loose. Blood splattered against the dirt, and his vision blurred at the edges. Then—
+Seth's head came up.
 
-"You shouldn’t have removed the dart."
+A man was sitting on the low wall six feet away with his forearms on his knees, and he had been sitting there for some time. Seth had walked past that wall. He was certain he had walked past that wall.
 
-A voice. One that he didn’t recognize.
-
-"If you hadn’t, the poison would have stayed dormant for a little longer. It would not have spread. But you did. Not that it matters."
+"If you hadn’t, the poison would have stayed dormant for a little longer. But you did. Not that it matters."
 
 He forced himself to straighten, forced his body to move even as a numbing pain spread through his entire body. He would not die on his knees.
 
-"You pulled the dart out. Of course you did. Everyone pulls the dart out. Everyone reaches for the thing that's killing them and tries to undo it, as if the order of events could be reversed by wanting it badly enough."
+"You pulled the dart out. Of course you did. Everyone pulls the dart out. Everyone reaches for the thing that's killing them and tries to undo it, as if the order of events could be reversed by wanting it badly enough." The voice had not changed at all. "I used to find that unbearable to watch. The insistence that this time, this once, the thing that has always happened is not going to happen."
 
-A pause. The voice moved, or the shadows did.
+"They said you never lose." Seth's mouth was not working properly. "Four years. Every plan we ever made."
 
-"I used to find it unbearable, watching the absolutely irrational insistence that this time, this once, the thing that has always happened will not happen. You understand that you were never going to survive this. Not because of the poison. Because of what you are. You're the kind of person who tears the dart out."
+"Nothing bends what's already settled. Your ability moves what's likely. There was nothing likely about tonight."
 
-Seth saw nothing before the world went dark.
+"Then why the dart." His knee went. He caught himself on the wreckage and his hand left a long smear down the steel. "If it was already done. Why bother."
 
-"Everyone is."
+The pause was slightly longer than the others.
 
-***
+"Because that's what happens next."
 
-Eli found him at the heart of it all. The figure sat on what might have been a house once, or perhaps a statue. His silhouette carved darkness from darkness, hood drawn despite the suffocating warmth that still radiated from the ground.
+Seth was still turning toward the sound when his vision went dark.
 
-"The quiet is the loudest part, isn't it?" Eli said, his voice not breaking the silence but becoming a part of it.
+──────✧──────
 
-The hood lifted by degrees, each movement deliberate as cracking ice. Whatever recognition lived in that darkness, it offered nothing—not even the courtesy of meeting Eli's gaze.
+The field was emptying when Eli came back for him.
+
+Seth was where he had left him, against the outer wall, one hand still open in the dirt. The fires had burned down enough that the light came at him in pieces. Eli knelt and put two fingers to the wrist and held them there.
+
+He held them there a while.
+
+Then he moved them, half an inch, to a better place, and held them there too.
+
+There was dirt worked into the cuff of Seth's coat, a lot of it, four days of it, ground into the weave past anything a hand would fix. Eli worked at it with his thumb. It did not come out. He kept at it for a moment longer than there was any reason to and then stopped, and looked at his own thumb, and let his hand fall.
+
+*I'll come back for you*, he had said. He had come back. It had taken eleven minutes.
+
+He got Seth's fingers closed. It took some doing.
+
+Behind him people were moving across the ground with lamps, calling numbers to each other, and someone was being carried and was making a noise about it. Eli stayed where he was until that had gone past. Then he stood up and looked at the ruins for somewhere to go.
+
+There was somebody sitting in them.
+
+Eli had walked most of this ground twice tonight and had not seen him, which meant nothing much, since half of what was standing out here was standing at an angle and threw shadows in the wrong direction. He was up on a low broken wall about forty meters off with his boots hanging, doing something with his hands. As Eli got nearer it turned out to be nothing. He was turning a piece of metal over and looking at it, the way people handle a thing they have already stopped being interested in.
+
+Nobody Eli knew. About his own age, with no armour, no kit, no marking. Dressed like somebody who had walked out of a room somewhere and not planned on any of this. His boots were clean.
+
+"The quiet's the loudest part," Eli said.
+
+The man looked up. He had been looking up before Eli spoke, in fact, somewhere in the second before, and there was nothing in his face at all.
 
 "It's the only honest part."
 
-The words fell like stones into still water.
-
-"An honest eulogy, then." Eli smiled softly as he pretended to look toward the horizon, but his periphery never truly left this strange young man. "Are you with Citadel?"
+"An honest eulogy, then." Eli stopped a comfortable distance short and put his hands where they could be seen, out of habit. "Are you with Citadel?"
 
 "Does it matter whose banner I'm not under?"
 
-"To my superiors, immensely." Eli shifted his weight, "To me? I'm more interested in why you chose to stay. You seem to know this place."
+"To the people I report to, immensely." Eli let some weight off one leg. "To me, less. I'm more curious why you're still here. Everyone else has somewhere to be."
+
+The man turned the metal over again. It caught the light and stopped catching it.
 
 "You're loud."
 
-The accusation dropped between them like a thrown blade.
+Eli laughed. It came out easily and it sounded wrong in that field and he heard it sound wrong.
 
-"Sorry, sorry." Eli’s laugh came easy, the way water finds its path through rubble. Natural, inevitable, somehow wrong in this place. "It's the quiet. Gets so loud, you feel like you have to say something back." He let his gaze drift over the devastation before returning to the sky, "All this space, suddenly so empty. Makes you wonder where the birds will sleep tonight, doesn't it? The ones that got away."
+"Sorry. Sorry." He rubbed the back of his neck. "It's the quiet, it gets so loud you feel like you owe it something back." He looked out at the dark, at the long flat stretch of it going toward the ridge with the lamps moving over it. "All this room, all of a sudden. Makes you wonder where the birds will sleep tonight. The ones that got out."
 
-A moment of silence. Then the young man’s hand rose—slow, deliberate—gesturing at the ruins as if his movements cost him something.
+"There weren't any birds."
+
+"No," Eli agreed. "There weren't."
 
 "Birds always come back. That's the part people find beautiful. The faithfulness of it, the return." His hand dropped. "They don't come back because they remember. They come back because they can't imagine anywhere else. And then the branch is ash and they circle and circle and there is nothing noble about it at all."
 
